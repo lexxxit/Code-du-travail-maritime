@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1989-08-08
+Version Consolidée au 1993-09-02
 
 # Titre 1 : Dispositions générales
 
@@ -1430,6 +1430,45 @@ salaire afférent à la fonction qu'il a temporairement remplie.
 
 ### Section 2 : De la suspension et de la rétention des salaires
 
+###### Article 48
+
+Le marin qui, étant de service, s'absente sans autorisation ou qui se trouve absent, sans autorisation, au moment où il doit
+prendre son service, perd le droit aux salaires afférents au temps de son absence. 
+
+L'armateur peut, s'il y a lieu, réclamer des dommages-intérêts pour le préjudice qu'aura pu lui causer le marin qui, étant de
+service, s'absente du bord sans autorisation, ou le marin qui, n'étant pas de service, s'absente du bord en inobservation des
+mesures prises par le capitaine, conformément aux dispositions de l'article 19.
+
+Le marin perd son salaire à partir du moment où il a été privé de sa liberté comme personne mise en examen en raison d'une
+infraction à la loi pénale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°93-1013 1993-08-24 art. 46 JORF 25 août 1993 en vigueur le 2 septembre 1993
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 105 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 19 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 105 : non application au capitaine
+
+
 ###### Article 49
 
 Dans le cas où le contrat d'engagement a été rompu par suite de congédiement du marin pour absence irrégulière, les salaires
@@ -2255,37 +2294,6 @@ marins intéressés.
 
 
 ### Section 2 : Suspension et rétention des salaires
-
-###### Article 48
-
-Le marin qui, étant de service, s'absente sans autorisation ou qui se trouve absent, sans autorisation, au moment où il doit
-prendre son service, perd le droit aux salaires afférents au temps de son absence. 
-
-L'armateur peut, s'il y a lieu, réclamer des dommages-intérêts pour le préjudice qu'aura pu lui causer le marin qui, étant de
-service, s'absente du bord sans autorisation, ou le marin qui n'étant pas de service, s'absente du bord en inobservation des
-mesures prises par le capitaine, conformément aux dispositions de l'article 19.
-
-Le marin perd son salaire à partir du moment où il a été privé de sa liberté comme inculpé en raison d'une infraction à la
-loi pénale.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 105 (V)
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 19 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 105 : non application au capitaine
-
 
 ###### Article 50
 
