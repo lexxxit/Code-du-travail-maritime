@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1977-05-19
+Version Consolidée au 1982-03-27
 
 # Titre 1 : Dispositions générales
 
@@ -219,6 +219,251 @@ d'équipage.
 	  - Code du travail maritime - art. 133-1 (V)
 
 
+###### Article 10-1
+
+Le contrat d'engagement doit être rédigé en termes clairs et de nature à ne laisser aucun doute aux parties sur leurs droits
+et leurs obligations respectives. 
+
+Il doit indiquer si l'engagement est conclu pour une durée déterminée, pour une durée indéterminée ou pour un voyage. 
+
+Si l'engagement est conclu pour une durée déterminée, le contrat doit contenir l'indication de cette durée. 
+
+Si l'engagement est conclu pour une durée déterminée ou indéterminée, le contrat doit fixer obligatoirement le délai de
+préavis à observer en cas de résiliation par l'une des parties. Ce délai, sauf dans les cas d'application de l'article 102-2,
+doit être le même pour les deux parties ; il ne peut être inférieur à vingt-quatre heures. 
+
+Si l'engagement est conclu au voyage, le contrat doit désigner nominativement, par une indication suffisante, le port où le
+voyage prendra fin et fixer à quel moment des opérations commerciales et maritimes effectuées dans ce port le voyage sera
+réputé accompli. 
+
+Au cas où la désignation de ce port ne permettrait pas d'apprécier la durée approximative du voyage, le contrat devra fixer
+une durée maximale après laquelle le marin pourra demander son débarquement au premier port de déchargement en Europe, même
+si le voyage n'est pas achevé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 102-2 (V)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 95 (Ab)
+
+
+###### Article 10-2
+
+Le contrat d'engagement à durée déterminée peut comporter une clause prévoyant le report du terme qu'il fixe ; dans ce cas,
+il peut être renouvelé une fois. La durée totale du contrat, compte tenu le cas échéant du report du terme, ne peut excéder
+douze mois d'embarquement effectif, sous réserve des dispositions de l'article 102-22.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-8 (V)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 10-5 (V)
+	  - Code du travail maritime - art. 10-7 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 102-22 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 10-7 : non application
+
+
+###### Article 10-3
+
+Il ne peut être conclu de contrat d'engagement à durée déterminée ou au voyage pour remplacer un marin dont l'absence
+temporaire ou la suspension du contrat résulterait d'un conflit collectif du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-267 1982-03-25 ART. 6 : Les dispositions de l'article 10-3 s'appliquent aux contrats conclus après la date d'entrée en vigueur de l'ordonnance 82-267
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-10 (V)
+
+
+###### Article 10-4
+
+A l'expiration d'un contrat à durée déterminée ou d'un contrat au voyage, il ne peut être recouru, pour remplacer le marin
+dont le contrat a pris fin, ni à un contrat à durée déterminée ni à un contrat au voyage avant l'expiration d'une période
+égale au tiers de la durée de ce contrat.
+
+Ces dispositions ne sont pas applicables en cas de rupture anticipée due au fait du marin ou de non-renouvellement par celui-
+ci d'un contrat comportant une clause de report du terme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-267 1982-03-25 ART. 6 : Les dispositions de l'article 10-4 s'appliquent aux contrats conclus après la date d'entrée en vigueur de l'ordonnance 82-267
+	  - SPEC_APPLI: Code du travail maritime 10-7 : non application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-11 (V)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 10-7 (M)
+
+
+###### Article 10-5
+
+Si, au terme d'un contrat à durée déterminée éventuellement renouvelé dans le cas prévu à l'article 10-2 ou d'un contrat au
+voyage, un nouveau contrat est conclu avec le même marin avant l'expiration des congés et repos acquis au titre du contrat
+précédent, ce nouveau contrat est à durée indéterminée. 
+
+Toutefois, dans les cas mentionnés à l'article 10-7, les dispositions de l'alinéa précédent ne font pas obstacle à la
+conclusion, avec le même marin, de contrats successifs à durée déterminée ou au voyage. 
+
+Dans le cas prévu au premier alinéa, le marin conserve l'ancienneté qu'il avait acquise au terme du premier contrat et ne
+perçoit pas l'indemnité prévue par l'article 102-24.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-267 1982-03-25 ART. 6 : Les dispositions de l'article 10-5 s'appliquent aux contrats conclus après la date d'entrée en vigueur de l'ordonnance 82-267
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-12 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 10-2 (V)
+	  - Code du travail maritime - art. 10-7 (V)
+	  - Code du travail maritime - art. 102-24 (V)
+
+
+###### Article 10-6
+
+Lorsque deux ou plusieurs contrats d'engagement successifs et discontinus de quelque nature qu'ils soient ont lié un marin à
+un armateur pour au moins dix-huit mois de services dont neuf mois d'embarquement effectif au cours d'une période de vingt-
+sept mois comptée depuis le premier embarquement, le nouveau contrat conclu avant l'expiration de cette période, entre ce
+marin et cet armateur ne peut être qu'un contrat à durée indéterminée. L'ancienneté cumulée de ces services ou périodes
+d'embarquement est alors considérée comme équivalente à une ancienneté continue de même durée, sauf pour le calcul de
+l'indemnité de licenciement. 
+
+Les dispositions de l'alinéa précédent ne sont pas applicables en cas de rupture anticipée due au fait du marin ou de non-
+renouvellement par celui-ci d'un contrat à durée déterminée comportant une clause de report du terme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-267 1982-03-25 ART. 6 : Les dispositions de l'article 10-6 s'appliquent aux contrats conclus après la date d'entrée en vigueur de l'ordonnance 82-267
+	  - SPEC_APPLI: Code du travail maritime 10-7 : non application
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-13 (V)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 10-7 (M)
+
+
+###### Article 10-7
+
+Les dispositions des articles 10-2, 10-4, 10-6 et 102-24 ne sont pas applicables aux contrats conclus : 
+
+1° Au titre des dispositions législatives et réglementaires destinées à favoriser l'embarquement de certaines catégories de
+demandeurs d'emploi ; 
+
+2° Au titre de l'engagement pris par l'employeur, pour une durée et dans des conditions fixées par décret, d'assurer un
+complément de formation professionnelle au marin ; 
+
+3° Pour permettre aux marins embarqués en supplément d'effectif d'accomplir le temps de navigation qui, conformément aux
+dispositions réglementaires et conventionnelles, leur est nécessaire pour poursuivre leurs études, subir leurs examens ou
+être mis en possession de leurs diplômes ; 
+
+4° Pour remplacer un marin temporairement absent ou dont le contrat de travail est suspendu ; 
+
+5° Pour pourvoir des emplois à caractère saisonnier ; 
+
+6° Pour l'exécution de marchés internationaux intéressant des activités temporaires déterminées par décret ;
+
+7° Pour pourvoir aux emplois exclusivement rémunérés à la part.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Liens**:
+
+	  - SPEC_APPLI: Ordonnance 82-267 1982-03-25 ART. 6 : Les dispositions ci-dessus s'appliquent aux contrats conclus après la date d'entrée en vigueur de l'ordonnance 82-267
+
+	**Cité par**:
+
+	  - Décret n°96-20 du 8 janvier 1996 - art. 1 (V)
+	  - Code du travail maritime - art. 10-5 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 10-2 (V)
+	  - Code du travail maritime - art. 10-4 (V)
+	  - Code du travail maritime - art. 10-6 (V)
+	  - Code du travail maritime - art. 102-24 (V)
+
+
 ###### Article 11
 
 Le contrat d'engagement maritime doit mentionner le service pour lequel le marin s'engage et la fonction qu'il doit exercer,
@@ -270,6 +515,46 @@ Le livret ne doit contenir aucune appréciation des services rendus.
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
+
+
+###### Article 15-1
+
+Le texte des dispositions légales et réglementaires qui régissent le contrat d'engagement doit, comme le texte des conditions
+du contrat, se trouver à bord, pour être communiqué par le capitaine au marin, sur sa demande. 
+
+Les conditions générales d'engagement doivent être affichées dans les locaux d'équipage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-6 (V)
+
+
+###### Article 15-2
+
+Sauf dispositions législatives expresses, et à l'exclusion des dispositions concernant la rupture du contrat, les
+dispositions légales et conventionnelles ainsi que celles qui résultent des usages, applicables aux marins liés par un
+contrat d'engagement à durée indéterminée, s'appliquent également aux marins liés par un contrat d'engagement à durée
+déterminée ou conclu pour un voyage.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 # Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires
@@ -429,6 +714,104 @@ des amendes ou confiscations pour infractions, soit aux lois douanières, soit a
 	  - Code disciplinaire et pénal de la marine marchande - art. 75 (V)
 
 
+###### Article 24
+
+Les durées légales hebdomadaire et quotidienne du travail effectif des marins sont celles qui sont fixées par l'article L.
+212-1 du code du travail, sous réserve des dispositions de l'article 27 et sauf dérogation à la durée quotidienne du travail
+dans des conditions fixées par décret.
+
+**Nota:**
+
+L'article L212-1 a été abrogé par l'ordonnance n° 2007-329 du 12 mars 2007 et codifié sous les articles L3121-10 et L3121-34
+du code du travail.
+
+L'article 27 du code du travail maritime a été abrogé par l'article 46 VII de la loi n° 97-1051 du 18 novembre 1997.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°54-1037 1954-10-22 art. 1 JORF 23 octobre 1954
+	  - Ordonnance 58-1358 1958-12-27 art. 2 JORF 30 décembre 1958
+
+	**Cité par**:
+
+	  - Décret n°83-793 du 6 septembre 1983 - art. 3 (Ab)
+	  - Décret n°83-793 du 6 septembre 1983 - art. 4 (Ab)
+	  - Décret n°2005-305 du 31 mars 2005 - art. 13 (V)
+	  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
+	  - Décret n°2007-1843 du 26 décembre 2007 - art. 5 (V)
+	  - Décret n°2008-76 du 24 janvier 2008 - art. 1 (V)
+	  - Code de la recherche - art. L411-5 (T)
+	  - Code de la recherche - art. L431-3 (V)
+	  - Code du travail maritime - art. 104 (V)
+	  - Code du travail maritime - art. 114 (V)
+	  - Code du travail maritime - art. 25 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°83-794 du 6 septembre 1983
+	  - TXT_SOURCE: Décret n°83-794 du 6 septembre 1983 - art. 1 (Ab)
+	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5544-4 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-1 (VT)
+	  - Code du travail maritime - art. 27 (Ab)
+
+
+###### Article 26
+
+La rémunération du travail est fixée par le contrat d'engagement, dans le cadre des conventions ou accords collectifs
+applicables. 
+
+La rémunération de l'heure de travail est majorée :
+
+1° De 25 p. 100 pour les huit premières heures [*supplémentaires*] effectuées dans la semaine au-delà de la durée du travail
+fixée à l'article L. 212-1 du Code du travail ; 
+
+2° De 50 p. 100 pour les heures supplémentaires effectuées au-delà des huit premières ; toutefois cette dernière majoration
+ne peut être cumulée avec les allocations spéciales prévues par les conventions ou accords collectifs, sentences arbitrales
+ou décisions administratives, sauf si ces dernières en disposent autrement. 
+
+Un mode forfaitaire de rémunération du travail supplémentaire peut être prévu par convention ou accord collectif.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°54-1037 1954-10-22 art. 3 JORF 23 octobre 1954
+	  - Ordonnance 58-1358 1958-12-27 art. 4 JORF 30 décembre 1958
+
+	**Cite**:
+
+	  - Code du travail - art. L212-1 (M)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 104 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+
+
 ###### Article 29
 
 Une journée de repos hebdomadaire s'entend de vingt-quatre heures de repos consécutives, comptées à partir de l'heure normale
@@ -498,6 +881,116 @@ d'assistance.
 
 
 # Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires
+
+###### Article 25
+
+Des décrets en conseil des ministres déterminent, le cas échéant, par genre de navigation ou catégorie de personnel, les
+modalités d'application de l'article précédent. Ils fixent notamment l'aménagement et la répartition des horaires de travail
+dans la semaine ou dans une période de temps autre que la semaine, pour tenir compte de la continuité de l'activité du
+navire, des contraintes portuaires et des nécessités de la sauvegarde de la sécurité des biens et des personnes en mer et aux
+ports. Ils fixent également les mesures de contrôle des heures de travail et de repos et de la durée du travail effectif
+ainsi que la procédure suivant laquelle les dérogations sont accordées ou utilisées. 
+
+Ces décrets sont pris et revisés après consultation des organisations les plus représentatives des marins et des armateurs.
+Ils fixent les limites dans lesquelles des heures supplémentaires peuvent être effectuées au-delà de la durée fixée à
+l'article L. 212-1 du Code du travail. 
+
+Il peut être dérogé par convention ou accord collectif étendus ou par accord collectif d'entreprise ou d'établissement à
+celles des dispositions de ces décrets qui sont relatives à l'aménagement et à la répartition des horaires de travail pour
+tenir compte des contraintes propres aux diverses activités maritimes. 
+
+En cas de dénonciation ou de non-renouvellement de ces conventions ou accords collectifs, les dispositions de ces décrets
+auxquelles il avait été dérogé redeviennent applicables.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Décret n°54-1037 1954-10-22 art. 2 JORF 23 octobre 1954
+	  - Ordonnance 58-1358 1958-12-27 art. 3 JORF 30 décembre 1958
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 10 (V)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 11 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 12 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 13 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 14 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 15 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 16 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 17 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 18 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 19 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 2 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 20 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 21 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 22 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 23 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 24 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 3 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 4 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 5 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 6 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 7 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 8 (Ab)
+	  - TXT_SOURCE: Décret n°83-793 du 6 septembre 1983 - art. 9 (Ab)
+	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+
+	**Cité par**:
+
+	  - Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
+	  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
+	  - Code de la recherche - art. L411-5 (T)
+	  - Code de la recherche - art. L431-3 (V)
+	  - Code du travail maritime - art. 104 (M)
+
+	**Cite**:
+
+	  - Code du travail - art. L212-1 (M)
+
+
+###### Article 26-1
+
+Les dispositions de l'article L. 212-5-1 du Code du travail [*heures supplémentaires*] sont applicables aux marins embarqués
+à bord des navires armés au commerce, au remorquage ou à la plaisance.
+
+Le droit au repos compensateur défini au second alinéa de l'article L. 212-5-1 du Code du travail est ouvert à raison des
+heures supplémentaires effectuées au-delà d'un contingent annuel fixé par voie réglementaire, le cas échéant pour chaque
+genre de navigation. 
+
+Le repos compensateur institué par le présent article peut être imputé sur les heures de repos et de congé accordées pour le
+même objet par des stipulations de conventions collectives.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cité par**:
+
+	  - Décret n°83-793 du 6 septembre 1983 - art. 5 (Ab)
+	  - Décret n°83-795 du 6 septembre 1983 - art. 1 (Ab)
+	  - Décret n°2005-305 du 31 mars 2005 - art. 14 (V)
+	  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983
+	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
+	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+
+	**Cite**:
+
+	  - Code du travail - art. L212-5-1 (M)
+
 
 ###### Article 27
 
@@ -1675,11 +2168,63 @@ suivant les formes déterminés par le code de commerce.
 	  - Code des transports - art. L5544-59 (V)
 
 
+## Chapitre 6 : Des congés payés
+
+###### Article 92-1
+
+Les marins embarqués pour servir à bord d'un navire ont droit à un congé payé à la charge de l'armateur, calculé à raison de
+trois jours par mois de service [*durée*].
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Décret n°54-1037 1954-10-22 art. 4 JORF 28 octobre 1954
+
+	**Cité par**:
+
+	  - Décret n°86-605 du 14 mars 1986 - art. 6 (V)
+	  - Code du travail maritime - art. 25-1 (V)
+
+
 # Titre 4 : Obligations de l'armateur envers le marin
 
 ## Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations
 
 ### Section 1 : Divers modes de rémunération des marins et règles de base à la liquidation des salaires
+
+###### Article 33
+
+Tout contrat d'engagement, aux termes duquel la rémunération du marin consiste, en tout ou partie, en une part sur le profit
+ou sur le fret, doit déterminer les dépenses et charges à déduire du produit brut, pour former le produit net. Aucune
+déduction, autres que celles stipulées, ne peut être admise au détriment du marin. 
+
+Toutefois, à défaut de stipulation contraire expresse, la charge des congés payés sur les navires de pêche armés
+exclusivement à la part s'impute sur les frais communs du navire. 
+
+Lors du règlement, le décompte des dépenses et charges communes et le décompte des produits et bénéfices sont remis par
+l'armateur sous sa signature, avec leurs justifications et pièces comptables originales, à l'autorité maritime chargée de la
+liquidation des comptes individuels de salaires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-522 du 21 juin 1999
+	  - TXT_SOURCE: Décret n°99-522 du 21 juin 1999 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°99-522 du 21 juin 1999 - art. 1 (V)
+
 
 ###### Article 34
 
@@ -2612,6 +3157,61 @@ reçu. Lorsqu'elle est verbale, elle doit être faite en présence de deux témo
 	  - Code du travail maritime
 
 
+###### Article 99
+
+Sous réserve de l'application, le cas échéant, des dispositions spéciales du chapitre 2 ci-après, le marin lié par un contrat
+à durée indéterminée et qui est congédié pour motif légitime n'a droit à aucune indemnité. Il peut être condamné à des
+dommages-intérêts si la rupture du contrat d'engagement a causé un préjudice à l'armateur.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
+
+
+###### Article 100
+
+Le congédiement du marin lié par un contrat à durée indéterminée ouvre droit à une indemnité de résiliation lorsqu'il a lieu
+sans motif légitime. 
+
+Le congédiement avant le terme du contrat d'un marin lié par un contrat à durée déterminée ouvre droit, sauf en cas de faute
+lourde ou de force majeure, à une indemnité de résiliation en sus de celle qui est prévue par l'article 102-24. 
+
+L'indemnité de résiliation est fixée comme il est dit à l'article 95, sous réserve de l'application, le cas échéant, des
+dispositions spéciales du chapitre 2 ci-après. Elle peut aussi être fixée forfaitairement par le contrat d'engagement ;
+toutefois, la stipulation d'une indemnité forfaitaire n'est valable que si elle ne constitue pas une renonciation déguisée du
+marin à ses droits.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
+
+	**Cité par**:
+
+	  - Décret n°83-796 du 6 septembre 1983 - art. 3 (V)
+	  - Code du travail maritime - art. 102-17 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 102-24
+	  - Code du travail maritime - art. 95
+
+
 ###### Article 102
 
 En aucun cas, le droit pour le marin à résilier le contrat d'engagement ne peut avoir effet au terme du délai de préavis : 
@@ -3025,6 +3625,66 @@ France dans un délai d'un mois à compter de l'expiration du contrat d'engageme
 	**Cité par**:
 
 	  - Code du travail maritime - art. 10-2 (V)
+
+
+###### Article 102-23
+
+Le contrat à durée déterminée est suspendu dans les mêmes conditions que le contrat à durée indéterminée. La suspension ne
+fait pas obstacle à l'échéance du contrat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance 82-267 1982-03-25 art. 5 JORF 27 mars 1982
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 102-24
+
+Lorsque les relations contractuelles de travail ne se poursuivent pas à l'issue d'un contrat à durée déterminée ou d'un
+contrat au voyage, le marin a droit à une indemnité de fin de contrat qui constitue un complément de salaire. Cette indemnité
+est calculée en fonction de la rémunération du marin et de la durée du contrat. Son taux ne peut être inférieur à un minimum
+fixé par décret. 
+
+L'indemnité n'est pas due en cas de rupture anticipée due au fait du marin, à sa faute grave ou à un cas de force majeure ou
+en cas de non-renouvellement par le marin d'un contrat comportant une clause de report du terme.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Ordonnance 82-267 1982-03-25 art. 5 JORF 27 mars 1982
+
+	**Cité par**:
+
+	  - Décret n°83-796 du 6 septembre 1983 - art. 3 (V)
+	  - Code du travail maritime - art. 10-5 (V)
+	  - Code du travail maritime - art. 10-7 (V)
+	  - Code du travail maritime - art. 100 (Ab)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-46 (Ab)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 10-7 : non application
 
 
 # Titre 6 : Dispositions spéciales applicables à certaines catégories de marins
