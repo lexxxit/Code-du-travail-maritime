@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1998-06-27
+Version Consolidée au 2000-06-22
 
 # Titre 1 : Dispositions générales
 
@@ -1075,26 +1075,23 @@ L3121-26 à L3121-32 du code du travail.
 ###### Article 26-2
 
 Le repos compensateur des marins salariés des entreprises de cultures marines est fixé dans les conditions prévues par les
-articles 993 et 993-1 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+articles L. 713-9 et L. 713-10 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent
+article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 993, 993-1
 
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
 
-	**Créé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
-
 	**Cité par**:
 
 	  - Décret n°99-724 du 3 août 1999 - art. 1 (M)
 	  - Décret n°99-724 du 3 août 1999 - art. 3 (V)
+
+	**Cite**:
+
+	  - Code rural - art. L713-10 (V)
 
 
 ###### Article 28
@@ -1144,27 +1141,28 @@ c) De manière différée au cours du voyage dans un port d'escale.
 
 ###### Article 28-1
 
-Le repos hebdomadaire des marins salariés des entreprises de cultures marines est fixé dans les conditions prévues par
-l'article 997 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+Le repos hebdomadaire des marins salariés des entreprises de cultures marines est fixé dans les conditions prévues par les
+articles L. 714-1 et L. 714-2 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent
+article.
 
 **Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code rural 997
 
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
 
-	**Créé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
-
 	**Cité par**:
 
 	  - Décret n°99-724 du 3 août 1999 - art. 5 (M)
 	  - Décret n°99-724 du 3 août 1999 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Rapport - art. 6 (V) JORF 22 juin 2000
+
+	**Cite**:
+
+	  - Code rural - art. L714-1 (VT)
 
 
 ###### Article 29
