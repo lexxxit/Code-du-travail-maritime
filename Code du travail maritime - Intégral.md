@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1942-04-15
+Version Consolidée au 1944-06-30
 
 # Titre 1 : Dispositions générales
 
@@ -1322,6 +1322,35 @@ lui.
 	**Cité par**:
 
 	  - Code disciplinaire et pénal de la marine marchande - art. 68 (V)
+
+
+###### Article 78
+
+Sur les navires armés au long cours, au cabotage international et à la grande pêche, les objets de couchage sont fournis par
+l'armateur conformément aux dispositions réglementaires relatives à l'hygiène à bord des navires. 
+
+Le ministre chargé de la marine peut autoriser sur certains navires armés à la grande pêche et sur certains navires de jauge
+brute de moins de 250 tonneaux armés au cabotage international le remplacement de la fourniture des objets de couchage par
+une indemnité forfaitaire. 
+
+Les objets de couchage fournis en nature sont placés sous la responsabilité des marins qui seraient tenus au versement des
+dommages et intérêts en cas de détérioration anormale ou de pertes résultant de leur faute. 
+
+Les mêmes dispositions sont applicables aux autres navires, à moins de conventions contraires.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-19 (V)
 
 
 ## Chapitre 3 : Des maladies et blessures des marins
