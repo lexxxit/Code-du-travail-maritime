@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1935-10-31
+Version Consolidée au 1935-11-05
 
 # Titre 1 : Dispositions générales
 
@@ -1950,6 +1950,23 @@ travail.
 	  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 5 (V)
 	  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 6 (V)
 	  - TXT_SOURCE: Décret n°85-1530 du 31 décembre 1985 - art. 7 (V)
+
+
+###### Article 82 bis
+
+Le marin débarqué malade ou blessé hors de la métropole [*à l'étranger*], et qui est rapatrié par l'autorité maritime, a
+droit, comme le marin débarqué en France, au bénéfice des dispositions de l'article 82, si, après son rapatriement et après
+visite du médecin désigné par l'autorité maritime, il est reconnu qu'il a encore besoin de soins.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 82 (M)
 
 
 ###### Article 85
