@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1955-05-30
+Version Consolidée au 1958-12-30
 
 # Titre 1 : Dispositions générales
 
@@ -46,19 +46,21 @@ pour le compte desquels un navire est armé.
 
 ###### Article 3
 
-Est considéré comme marin, pour l'application de la présente loi, toute personne, de l'un ou l'autre sexe, qui s'engage,
-envers l'armateur ou son représentant, pour servir à bord d'un navire.
+Est considéré comme marin, pour l'application de la présente loi, quiconque s'engage, envers l'armateur ou son représentant,
+pour servir à bord d'un navire.
 
-Le personnel du navire est placé sous l'autorité du capitaine.
-
-Il se divise en trois catégories : le personnel du pont, le personnel des machines et le personnel des agents du service
-général.
+Le personnel d'un navire doit, dans une proportion définie par arrêté du ministre chargé de la marine marchande, être
+Français.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Ordonnance n°58-1358 du 27 décembre 1958, art 1 v. init.
 
 	**Cité par**:
 
@@ -1195,24 +1197,11 @@ parts dus effectivement au marin.
 
 ### Section 5 : Des dettes des marins - Des saisies et cessions de salaires
 
-###### Article 67
+###### Article 66
 
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Abrogé par**:
-
-	  - Ordonnance n°58-1358 du 27 décembre 1958, art 6 v. init.
-
-
-###### Article 68
-
-Article abrogé
+Les salaires, profits et autres rémunérations des marins, y compris les salaires qui leur sont accordés en cas de maladie ou
+de blessure par application des articles 79,83 et 84 du présent code, sont saisissables ou cessibles dans les conditions
+fixées par le code du travail.
 
 **Liens relatifs à cet article**
 
@@ -1220,24 +1209,17 @@ Article abrogé
 
 	  - Loi du 13 décembre 1926, v. init.
 
-	**Abrogé par**:
+	**Modifié par**:
 
-	  - Ordonnance n°58-1358 du 27 décembre 1958, art 6 v. init.
-
-
-###### Article 69
-
-Article abrogé
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
+	  - Ordonnance 58-1358 1958-12-27 art. 5 JORF 30 décembre 1958
 
 	**Abrogé par**:
 
-	  - Ordonnance n°58-1358 du 27 décembre 1958, art 6 v. init.
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 79 (V)
 
 
 ###### Article 70
@@ -1870,53 +1852,16 @@ l'autorité maritime.
 
 #### Saisies et cessions de salaires
 
-###### Article 67
+###### Article 71
 
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Ordonnance 58-1358 1958-12-27 art. 6 JORF 30 décembre 1958
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 107 (V)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 68
-
-Dispositions abrogées.
+L'autorité maritime peut, lors du payement des salaires, sur la demande du créancier ou du cessionnaire et selon la procédure
+prévue par le Code du travail, retenir la partie saisissable des salaires, profits et autres rémunérations des marins.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Abrogé par**:
-
-	  - Ordonnance 58-1358 1958-12-27 art. 6 JORF 30 décembre 1958
-
-
-###### Article 69
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Abrogé par**:
-
-	  - Ordonnance 58-1358 1958-12-27 art. 6 JORF 30 décembre 1958
+	  - Loi du 13 décembre 1926, v. init.
 
 
 ## Chapitre 2 : Nourriture et couchage
