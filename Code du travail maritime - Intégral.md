@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1945-11-03
+Version Consolidée au 1948-09-30
 
 # Titre 1 : Dispositions générales
 
@@ -2175,6 +2175,41 @@ affréteurs.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L5542-47 (V)
+
+
+## Chapitre 3 : Dispositions spéciales applicables aux marins étrangers
+
+###### Article 119
+
+Les dispositions de la présente loi sont applicables aux marins étrangers engagés sur les navires français. 
+
+Toutefois, l'armateur sera considéré comme ayant satisfait à l'obligation de rapatriement prévue à l'article 87 si les marins
+étrangers sont ramenés à leur port d'embarquement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5715-8 (V)
+	  - Code des transports - art. L5735-9 (Ab)
+	  - Code des transports - art. L5745-9 (Ab)
+	  - Code des transports - art. L5755-9 (Ab)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 87 (V)
+
+	**Modifié par**:
+
+	  - Loi n°1948-09-25 art. 2 JORF 30 SEPTEMBRE 1948
 
 
 # Titre 6 : Dispositions spéciales à certaines catégories de marins
