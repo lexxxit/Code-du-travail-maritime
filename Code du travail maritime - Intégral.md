@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1944-06-30
+Version Consolidée au 1945-11-03
 
 # Titre 1 : Dispositions générales
 
@@ -1806,6 +1806,24 @@ Toutefois, des avances peuvent être accordées, au-delà des maxima prévus au 
 	**Cite**:
 
 	  - Code du travail maritime - art. 34 (M)
+
+
+###### Article 62
+
+Des délégations peuvent être consenties, en cours de voyage, dans les conditions et limites indiquées à l'article 61 ci-
+dessus, par les marins qui n'ont pas usé, lors de leur embarquement, de la faculté de déléguer. Leur demande est remise au
+capitaine ; elle est transmise, sans délai, par le capitaine à l'armateur. Mention en est faite au rôle d'équipage par
+l'autorité maritime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 61 (V)
 
 
 ### Section 5 : Dettes des marins
