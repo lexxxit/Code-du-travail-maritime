@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1950-07-30
+Version Consolidée au 1955-05-16
 
 # Titre 1 : Dispositions générales
 
@@ -2269,6 +2269,29 @@ moins de seize ans, novice s'il est âgé de plus de seize ans et de moins de di
 	**Codifié par**:
 
 	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 112
+
+Dispositions abrogées.
+
+**Liens relatifs à cet article**
+
+	**Modifié par**:
+
+	  - Décret n°55-691 1955-05-20 art. 2 JORF 24 mai 1955
+
+	**Abrogé par**:
+
+	  - Décret n°59-626 1959-05-12 art. 12 JORF 16 mai 1959
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
 
 
 ###### Article 113
