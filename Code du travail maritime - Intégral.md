@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1959-11-25
+Version Consolidée au 1960-08-17
 
 # Titre 1 : Dispositions générales
 
@@ -1780,6 +1780,31 @@ Au cas d'un retard de payement imputable à l'armateur, le marin peut réclamer 
 	  - Loi du 13 décembre 1926, v. init.
 
 
+###### Article 54
+
+Lors du débarquement du marin mettant fin à son contrat d'engagement, l'autorité maritime reçoit les déclarations des parties
+sur le règlement des salaires. Il est fait mention au rôle d'équipage et sur le livret professionnel du marin de la
+déclaration faite, sans indication de somme. 
+
+En aucun lieu, il ne peut être utilisé de moyens de paiement ayant pour objet de suppléer ou de remplacer les signes
+monétaires ayant cours légal. Si le paiement est fait à l'étranger en monnaie étrangère, il est effectué, sous le contrôle de
+l'autorité consulaire, au taux de change fixé pour les opérations de chancellerie.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dispositions réglementaires (Constitution art. 37)
+
+	**Modifié par**:
+
+	  - Loi n°60-865 1960-08-06 art. 9 JORF 17 août 1960
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+
 ###### Article 57
 
 Toute transaction sur le montant du décompte des salaires est nulle si elle n'est pas homologuée par l'autorité maritime.
@@ -2321,6 +2346,44 @@ température peut constituer un danger pour leur santé.
 	  - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
+###### Article 115
+
+Les enfants âgés de moins de quinze ans révolus ne peuvent être embarqués à titre professionnel sur un navire. Toutefois,
+l'embarquement professionnel d'un enfant âgé de quatorze ans au moins peut être exceptionnellement autorisé par
+l'administrateur des affaires maritimes lorsqu'il est effectué dans l'intérêt de l'enfant. Il est subordonné à la
+présentation d'un certificat d'aptitude physique délivré par le médecin des gens de mer ou le médecin visé à l'article 3. 
+
+En outre, les enfants de moins de quinze ans, mais de plus de treize ans, peuvent, pendant les vacances scolaires, prendre
+part occasionnellement aux activités à bord des bateaux de pêche côtière, sous réserve de la présentation du certificat
+médical prévu à l'alinéa précédent et à condition que cet embarquement ne soit pas réalisé dans un intérêt commercial.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dispositions réglementaires
+
+	**Modifié par**:
+
+	  - Décret n°60-865 1960-08-06 art. 8 JORF 17 août 1960
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+	  - Décret n°2006-534 du 10 mai 2006 - art. 3 (V)
+	  - Décret n°2006-534 du 10 mai 2006 - art. 4 (V)
+	  - Code du travail maritime - art. 111 (V)
+	  - Code du travail maritime - art. 8 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 3 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
 ###### Article 116
 
 Le capitaine ou le patron doit exercer sur le marin mineur une surveillance attentive, veiller à ce qu'il ne soit employé
@@ -2383,27 +2446,6 @@ Dispositions abrogées.
 	**Abrogé par**:
 
 	  - Loi n°60-1156 1960-11-02 art. 2 JORF 5 novembre 1960
-
-
-# Titre 7 : Litiges entre armateurs et marins
-
-###### Article 123
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
 # Titre 7 : Des litiges entre armateurs et marins
