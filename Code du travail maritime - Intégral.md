@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1986-12-31
+Version Consolidée au 1989-08-08
 
 # Titre 1 : Dispositions générales
 
@@ -2688,46 +2688,6 @@ présent titre, de la résolution prononcée par jugement en vertu des dispositi
 	  - Code du travail maritime - art. 102-1 (Ab)
 
 
-###### Article 94
-
-Les dispositions des articles L. 321-1 à L. 321-11 et L. 322-3 du Code du Travail sont applicables au personnel navigant des
-entreprises d'armement maritime dans des conditions déterminées, compte tenu des adaptations nécessaires, par décret en
-Conseil d'Etat.
-
-Les litiges nés à l'occasion de l'application des dispositions des articles cités au premier alinéa relèvent de la compétence
-des tribunaux d'instance.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
-
-	**Modifié par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 23 () JORF 31 décembre 1986
-
-	**Cite**:
-
-	  - Code du travail - art. L321-1 (M)
-	  - Code du travail - art. L321-10 (M)
-	  - Code du travail - art. L321-11 (M)
-	  - Code du travail - art. L321-2 (M)
-	  - Code du travail - art. L321-3 (M)
-	  - Code du travail - art. L321-4 (M)
-	  - Code du travail - art. L321-5 (Ab)
-	  - Code du travail - art. L321-5-1 (Ab)
-	  - Code du travail - art. L321-6 (T)
-	  - Code du travail - art. L321-7 (M)
-	  - Code du travail - art. L321-8 (MMN)
-	  - Code du travail - art. L321-9 (M)
-	  - Code du travail - art. L322-3 (Ab)
-
-
 ###### Article 98
 
 Dans les ports métropolitains, le capitaine peut congédier le marin sans autorisation de l'autorité maritime. 
@@ -2807,6 +2767,48 @@ large lorsque le propriétaire est embarqué comme membre de l'équipage sur le 
 # Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat
 
 ## Chapitre 1 : Dispositions communes à tous les contrats d'engagement
+
+###### Article 94
+
+Les dispositions des articles L. 321-1 à L. 321-11, L. 321-13-1, L. 321-14, L. 321-15, 
+L. 322-3, L. 322-3-1 et L. 322-7 du code du travail sont applicables aux personnels navigants des entreprises d'armement
+maritime dans des conditions déterminées, compte tenu des adaptations nécessaires, par décret en Conseil d'Etat. 
+
+Les litiges nés à l'occasion de l'application des dispositions des articles cités au premier alinéa relèvent de la compétence
+des tribunaux d'instance.
+
+**Nota:**
+
+Les articles L. 321-13-1 et L. 322-3 du code du travail ont été abrogés par l'article 13 I de la loi n° 2004-602 du 24 juin
+2004.
+
+Les articles du code du travail mentionnés dans le présent article ont été abrogés par l'ordonnance n° 2007-329 du 12 mars
+2007 et codifiés dans la nouvelle partie législative du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cité par**:
+
+	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
+
+	**Modifié par**:
+
+	  - Loi n°89-549 du 2 août 1989 - art. 35 () JORF 8 août 1989
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code du travail - art. L321-1 (VT)
+	  - Code du travail - art. L321-13-1 (Ab)
+	  - Code du travail - art. L322-3 (Ab)
+
 
 ###### Article 95
 
