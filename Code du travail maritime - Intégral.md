@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1935-11-05
+Version Consolidée au 1942-04-15
 
 # Titre 1 : Dispositions générales
 
@@ -2164,6 +2164,28 @@ de l'article 95 ci-dessus.
 
 
 ## Chapitre 2 : Marins de moins de 21 ans et femmes mariées
+
+###### Article 113
+
+Dispositions abrogées.
+
+**Liens relatifs à cet article**
+
+	**Abrogé par**:
+
+	  - Décret n°59-626 1959-05-12 art. 33 JORF 16 mai 1959
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+	  - Décret n°2006-534 du 10 mai 2006 - art. 14 (V)
+	  - Code du travail maritime - art. 114 (V)
+	  - Code du travail maritime - art. 117 (M)
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
 
 ###### Article 118
 
