@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1955-05-22
+Version Consolidée au 1955-05-30
 
 # Titre 1 : Dispositions générales
 
@@ -2383,6 +2383,31 @@ température peut constituer un danger pour leur santé.
 	**Codifié par**:
 
 	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 116
+
+Le capitaine ou le patron doit exercer sur le marin mineur une surveillance attentive, veiller à ce qu'il ne soit employé
+qu'aux travaux et services en rapport avec ses aptitudes physiques et se rattachant à l'exercice de sa profession ; il lui
+enseigne ou fait enseigner, progressivement, la pratique de son métier.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dispositions réglementaires
+
+	**Modifié par**:
+
+	  - Décret n°55-691 1955-05-20 art. 4 JORF 30 mai 1955
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
 
 
 ###### Article 117
