@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1996-02-27
+Version Consolidée au 1997-11-19
 
 # Titre 1 : Dispositions générales
 
@@ -196,13 +196,30 @@ inférieur à 50 tonneaux.
 
 ###### Article 8
 
-Dispositions abrogées.
+Les dispositions du titre Ier du livre Ier du code du travail relatives à l'apprentissage sont applicables aux entreprises
+d'armement maritime.
+
+La dérogation d'âge visée à l'article L. 117-3 du code du travail est également applicable aux jeunes marins embarqués
+nonobstant les dispositions du premier alinéa de l'article 115.
+
+Les adaptations nécessaires aux spécificités des entreprises d'armement maritime sont précisées par le décret visé à
+l'article 117.
 
 **Liens relatifs à cet article**
 
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Cite**:
+
+	  - Code du travail - art. L117-3 (M)
+	  - Code du travail maritime - art. 115 (M)
+	  - Code du travail maritime - art. 117 (M)
+
 	**Codifié par**:
 
-	  - Loi du 13 décembre 1926, v. init.
+	  - Code du travail maritime (V)
 
 
 ###### Article 9
@@ -423,7 +440,7 @@ renouvellement par celui-ci d'un contrat à durée déterminée comportant une c
 
 ###### Article 10-7
 
-Les dispositions des articles 10-2, 10-4, 10-6 et 102-24 ne sont pas applicables aux contrats conclus : 
+Les dispositions des articles 10-2,10-4,10-6 et 102-24 ne sont pas applicables aux contrats conclus : 
 
 1° Au titre des dispositions législatives et réglementaires destinées à favoriser l'embarquement de certaines catégories de
 demandeurs d'emploi ; 
@@ -439,9 +456,7 @@ dispositions réglementaires et conventionnelles, leur est nécessaire pour pour
 
 5° Pour pourvoir des emplois à caractère saisonnier ; 
 
-6° Pour l'exécution de marchés internationaux intéressant des activités temporaires déterminées par décret ;
-
-7° Pour pourvoir aux emplois exclusivement rémunérés à la part.
+6° Pour l'exécution de marchés internationaux intéressant des activités temporaires déterminées par décret.
 
 **Liens relatifs à cet article**
 
@@ -458,19 +473,38 @@ dispositions réglementaires et conventionnelles, leur est nécessaire pour pour
 	  - Décret n°96-20 du 8 janvier 1996 - art. 1 (V)
 	  - Code du travail maritime - art. 10-5 (V)
 
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-14 (V)
+	  - Code des transports - art. L5542-46 (Ab)
+
 	**Cite**:
 
 	  - Code du travail maritime - art. 10-2 (V)
-	  - Code du travail maritime - art. 10-4 (V)
-	  - Code du travail maritime - art. 10-6 (V)
 	  - Code du travail maritime - art. 102-24 (V)
 
 
 ###### Article 11
 
-Le contrat d'engagement maritime doit mentionner le service pour lequel le marin s'engage et la fonction qu'il doit exercer,
-le montant des salaires et accessoires ou les bases de détermination des profits [*mention obligatoire*]. Le lieu et la date
-de l'embarquement du marin doivent être mentionnés au rôle d'équipage.
+Le contrat d'engagement maritime doit mentionner le service pour lequel le marin s'engage et les fonctions qu'il doit
+exercer, le montant des salaires et accessoires ou, lorsque la rémunération consiste en tout ou partie en une part sur le
+produit des ventes ou sur d'autres éléments spécifiés du chiffre d'affaires, la répartition du produit ou des éléments
+considérés entre l'armement et les membres d'équipage ainsi que la part revenant au marin concerné.
+
+Le contrat d'engagement maritime doit mentionner de façon expresse, quand il est fait usage de ce mode de rémunération, les
+modalités selon lesquelles le marin est informé, au moins une fois par semestre, sur les éléments comptables justifiant la
+rémunération perçue.
+
+Le contrat d'engagement maritime est suspendu dans les conditions fixées aux titres II et III du livre IX du code du travail
+relatif à la formation professionnelle continue.
 
 **Liens relatifs à cet article**
 
@@ -478,12 +512,24 @@ de l'embarquement du marin doivent être mentionnés au rôle d'équipage.
 
 	  - Loi du 13 décembre 1926, v. init.
 
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-3 (V)
+
 
 ###### Article 12
 
 Les conditions générales d'engagement doivent être tenues, par l'armateur, à la disposition des marins, et lecture doit en
 être donnée, par l'autorité chargée de l'inspection du travail maritime, au moment de l'inscription du marin au rôle
-d'équipage [*information*].
+d'équipage qui doit mentionner le lieu et la date d'embarquement.
 
 **Liens relatifs à cet article**
 
@@ -493,7 +539,11 @@ d'équipage [*information*].
 
 	**Modifié par**:
 
-	  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 49 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
 
 
 ###### Article 13
@@ -822,6 +872,29 @@ Conseil d'Etat.
 	  - Code du travail L212-4-2 à L212-4-7
 
 
+###### Article 24-2
+
+Les dispositions de l'article L. 212-2-1, des deuxième, troisième et quatrième alinéas de l'article L. 212-5, ainsi que des
+articles L. 212-8 à L. 212-9 du code du travail, relatifs à la modulation du temps de travail et au remplacement du paiement
+des heures supplémentaires par un repos compensateur, sont applicables aux marins salariés des entreprises d'armement
+maritime.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Cite**:
+
+	  - Code du travail L212-8 à L212-9
+	  - Code du travail maritime L212-2-1, L212-5
+
+
 ###### Article 25
 
 Des décrets en conseil des ministres déterminent, le cas échéant, par genre de navigation ou catégorie de personnel les
@@ -948,6 +1021,152 @@ Un mode forfaitaire de rémunération du travail supplémentaire peut être pré
 	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
 
 
+###### Article 26-1
+
+Les dispositions de l'article L. 212-5-1 du Code du travail (1) sont applicables aux marins embarqués à bord des navires
+armés au commerce, au remorquage ou à la plaisance. Toutefois, les heures supplémentaires effectuées en cas de travaux
+urgents dont l'exécution immédiate est nécessaire pour organiser des mesures de sauvetage, de sécurité immédiate du navire ou
+pour prévenir des accidents imminents n'ouvrent pas droit au repos compensateur. 
+
+Le droit au repos compensateur défini au troisième alinéa de l'article L. 212-5-1 du code du travail est ouvert à raison des
+heures supplémentaires effectuées au-delà d'un contingent annuel fixé par voie réglementaire, le cas échéant pour chaque
+genre de navigation. 
+
+Le repos compensateur institué par le présent article peut être imputé sur les heures de repos et de congé accordées pour le
+même objet par des stipulations de conventions collectives.
+
+**Nota:**
+
+(1) L'article L212-5-1 a été abrogé par l'ordonnance n° 2007-329 du 12 mars 2007 et codifié sous les articles L3121-16 et
+L3121-26 à L3121-32 du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cité par**:
+
+	  - Décret n°83-793 du 6 septembre 1983 - art. 5 (Ab)
+	  - Décret n°83-795 du 6 septembre 1983 - art. 1 (Ab)
+	  - Décret n°2005-305 du 31 mars 2005 - art. 14 (V)
+	  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983
+	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983 - art. 1 (Ab)
+	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code du travail - art. L212-5-1 (VT)
+
+
+###### Article 26-2
+
+Le repos compensateur des marins salariés des entreprises de cultures marines est fixé dans les conditions prévues par les
+articles 993 et 993-1 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 993, 993-1
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Cité par**:
+
+	  - Décret n°99-724 du 3 août 1999 - art. 1 (M)
+	  - Décret n°99-724 du 3 août 1999 - art. 3 (V)
+
+
+###### Article 28
+
+Sauf les exceptions et dérogations prévues à l'article 30 ci-après, un repos complet d'une journée par semaine doit être
+accordé au marin lorsque l'engagement maritime est d'une durée supérieure à six jours.
+
+Le dimanche est le jour consacré au repos hebdomadaire.
+
+Sans préjudice d'accords collectifs plus favorables, les modalités d'application du présent article sont déterminées par un
+décret en Conseil d'Etat pour tenir compte des contraintes propres aux diverses activités maritimes, ainsi que du genre de
+navigation ou de la catégorie de personnel. Ce décret prévoit notamment les cas où l'armateur ou son représentant est admis à
+donner à tout ou partie de l'équipage le repos hebdomadaire selon l'une des modalités ci-après :
+
+a) Par roulement ;
+
+b) De manière différée au retour au port de débarquement ;
+
+c) De manière différée au cours du voyage dans un port d'escale.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Cité par**:
+
+	  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
+	  - Décret n°2007-1843 du 26 décembre 2007 - art. 1 (V)
+	  - Code de la recherche - art. L411-5 (T)
+	  - Code de la recherche - art. L431-3 (V)
+	  - Code du travail maritime - art. 104 (M)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 30 (V)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+
+
+###### Article 28-1
+
+Le repos hebdomadaire des marins salariés des entreprises de cultures marines est fixé dans les conditions prévues par
+l'article 997 du code rural. Un décret en Conseil d'Etat détermine les modalités d'application du présent article.
+
+**Liens relatifs à cet article**
+
+	**Cite**:
+
+	  - Code rural 997
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Cité par**:
+
+	  - Décret n°99-724 du 3 août 1999 - art. 5 (M)
+	  - Décret n°99-724 du 3 août 1999 - art. 7 (V)
+
+
 ###### Article 29
 
 Une journée de repos hebdomadaire s'entend de vingt-quatre heures de repos consécutives, comptées à partir de l'heure normale
@@ -1016,111 +1235,6 @@ d'assistance.
 	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
 
 
-# Titre 3 : Obligations du marin envers l'armateur et réglementation du travail à bord des navires
-
-###### Article 26-1
-
-Les dispositions de l'article L. 212-5-1 du Code du travail [*heures supplémentaires*] sont applicables aux marins embarqués
-à bord des navires armés au commerce, au remorquage ou à la plaisance.
-
-Le droit au repos compensateur défini au second alinéa de l'article L. 212-5-1 du Code du travail est ouvert à raison des
-heures supplémentaires effectuées au-delà d'un contingent annuel fixé par voie réglementaire, le cas échéant pour chaque
-genre de navigation. 
-
-Le repos compensateur institué par le présent article peut être imputé sur les heures de repos et de congé accordées pour le
-même objet par des stipulations de conventions collectives.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cité par**:
-
-	  - Décret n°83-793 du 6 septembre 1983 - art. 5 (Ab)
-	  - Décret n°83-795 du 6 septembre 1983 - art. 1 (Ab)
-	  - Décret n°2005-305 du 31 mars 2005 - art. 14 (V)
-	  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983
-	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983 - art. 1 (Ab)
-	  - TXT_SOURCE: Décret n°83-795 du 6 septembre 1983 - art. 2 (Ab)
-	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
-
-	**Cite**:
-
-	  - Code du travail - art. L212-5-1 (M)
-
-
-###### Article 27
-
-A la mer, et sur les rades foraines, le personnel du pont et celui de la machine marchent par quart. 
-
-Chaque quart du personnel des machines doit comprendre au moins un homme par trois fourneaux, sauf les exceptions à cette
-règle, déterminées par décret en Conseil d'Etat. L'armateur ou le capitaine est tenu de faire connaître aux marins qui vont
-s'engager, et de déclarer lors de la confection du rôle d'équipage, à la suite des conditions d'engagement, la composition de
-l'équipage, le nombre des fourneaux devant être mis en service dans la chaufferie et, s'il y a lieu, les éléments prévus au
-règlement d'administration publique ci-dessus mentionné et servant de base au calcul de l'effectif.
-
-Le chauffeur, pendant son quart, ne doit pas être distrait du service de la chauffe, si ce n'est pour les besoins urgents de
-la machine. 
-
-A chaque quart, le personnel des machines, de concert avec celui du pont, assure l'enlèvement des escarbilles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Abrogé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 104 (M)
-	  - Code du travail maritime - art. 24 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
-
-
-###### Article 28
-
-Sauf les exceptions et dérogations prévues à l'article 30 ci-après, un repos complet d'une journée par semaine doit être
-accordé au marin lorsque l'engagement maritime est d'une durée supérieure à six jours.    Sauf décision contraire du
-capitaine, le dimanche est le jour consacré au repos hebdomadaire. 
-
-Les dispositions du présent article ne sont pas applicables aux engagements à la pêche.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cité par**:
-
-	  - Décret n°2005-305 du 31 mars 2005 - art. 22 (V)
-	  - Décret n°2007-1843 du 26 décembre 2007 - art. 1 (V)
-	  - Code de la recherche - art. L411-5 (T)
-	  - Code de la recherche - art. L431-3 (V)
-	  - Code du travail maritime - art. 104 (M)
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 30 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
-
-
 # Titre 4 : Des obligations de l'armateur envers le marin
 
 ## Chapitre 1 : Des salaires fixes, profits éventuels et autres rémunérations
@@ -1137,6 +1251,33 @@ rémunération.
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
+
+
+###### Article 34
+
+Un accord national professionnel ou des accords de branche étendus fixent, indépendamment de la durée de travail effective,
+la durée du travail hebdomadaire retenue pour le calcul du salaire minimum de croissance ainsi que les modalités de lissage
+sur tout ou partie de l'année de la rémunération à la part.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 133-1 (V)
+	  - Code du travail maritime - art. 53 (M)
+	  - Code du travail maritime - art. 58 (M)
+
+	**Liens**:
+
+	  - TXT_ASSOCIE: Décret n°1935-06-15
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
 
 
 ### Section 1 : Des divers modes de rémunération des marins et des règles qui servent de base à la liquidation des salaires
@@ -1159,6 +1300,53 @@ l'application de la présente loi, considérées comme salaires.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L5544-35 (V)
+
+
+###### Article 33
+
+Tout contrat d'engagement aux termes duquel la rémunération du marin consiste, en tout ou partie, en une part sur le produit
+des ventes ou sur d'autres éléments du chiffre d'affaires définis par le contrat doit déterminer les dépenses et charges à
+déduire du produit brut, ou des autres éléments pris en compte pour former le produit net. Aucune déduction autre que celles
+stipulées ne peut être admise au détriment du marin. 
+
+En cas de litige, l'armateur est tenu de communiquer au juge saisi le détail du calcul de la rémunération, avec les pièces
+justificatives. Ces éléments doivent également être communiqués à l'autorité chargée de l'inspection du travail maritime sur
+sa demande écrite. 
+
+Un décret en Conseil d'Etat pris après avis des organisations représentatives d'armateurs et de marins détermine, en tenant
+compte notamment des dispositions de l'article 72 du présent code, les dépenses et les charges qui ne peuvent en aucun cas
+être déduites du produit brut mentionné au premier alinéa.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Liens**:
+
+	  - TXT_SOURCE: Décret n°99-522 du 21 juin 1999
+	  - TXT_SOURCE: Décret n°99-522 du 21 juin 1999 - art. 1 (V)
+
+	**Cité par**:
+
+	  - Décret n°99-522 du 21 juin 1999 - art. 1 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5544-40 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 72 (V)
 
 
 ###### Article 35
@@ -1556,6 +1744,30 @@ dommages-intérêts n'a été intentée contre lui par l'armateur.
 	**Liens**:
 
 	  - SPEC_APPLI: Code du travail maritime 105 : non application au capitaine
+
+
+###### Article 50
+
+L'inexécution des obligations qui incombent au marin, soit en vertu des lois, décrets et usages en vigueur, soit en vertu du
+contrat d'engagement et des règlements particuliers auxquels le contrat se réfère, ne peut donner lieu à aucune amende ou
+suspension partielle de salaires autres que les amendes ou suspension résultant de l'application des lois pénales. 
+
+Cette disposition ne s'applique pas aux dédits stipulés dans les contrats d'engagement pour les cas de rupture du contrat
+avant le terme fixé.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
 ### Section 3 : Des lieux et époques de liquidation et du paiement des salaires
@@ -1995,6 +2207,67 @@ autres rémunérations des marins.
 
 
 ## Chapitre 2 : De la nourriture et du couchage
+
+###### Article 72
+
+Les marins ont droit à la nourriture ou à une allocation équivalente pendant toute la durée de leur inscription au rôle
+d'équipage.
+
+Les conditions d'application de ces dispositions peuvent être déterminées par voie d'accord collectif de branche ou
+d'entreprise conclu à la pêche ; un tel accord peut, par dérogation, décider d'imputer la charge qui en résulte sur les frais
+communs du navire armé à la pêche.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-18 (V)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 33 (V)
+	  - Code du travail maritime - art. 72-1 (V)
+
+
+###### Article 72-1
+
+Les dispositions du premier alinéa de l'article 72 peuvent être rendues applicables par voie d'accord collectif de branche ou
+d'entreprise aux entreprises de cultures marines.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-18 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 72 (V)
+
 
 ###### Article 73
 
@@ -2725,133 +2998,26 @@ trois jours par mois de service [*durée*].
 	  - Code du travail maritime - art. 25-1 (V)
 
 
-# Titre 4 : Obligations de l'armateur envers le marin
+# Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat
 
-## Chapitre 1 : Salaires fixes, profits éventuels et autres rémunérations
-
-### Section 1 : Divers modes de rémunération des marins et règles de base à la liquidation des salaires
-
-###### Article 33
-
-Tout contrat d'engagement, aux termes duquel la rémunération du marin consiste, en tout ou partie, en une part sur le profit
-ou sur le fret, doit déterminer les dépenses et charges à déduire du produit brut, pour former le produit net. Aucune
-déduction, autres que celles stipulées, ne peut être admise au détriment du marin. 
-
-Toutefois, à défaut de stipulation contraire expresse, la charge des congés payés sur les navires de pêche armés
-exclusivement à la part s'impute sur les frais communs du navire.
-
-Lors du règlement, le décompte des dépenses et charges communes et le décompte des produits et bénéfices sont remis par
-l'armateur sous sa signature, avec leurs justifications et pièces comptables originales, à l'autorité chargée de l'inspection
-du travail maritime chargée de la liquidation des comptes individuels de salaires.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-	**Liens**:
-
-	  - TXT_SOURCE: Décret n°99-522 du 21 juin 1999
-	  - TXT_SOURCE: Décret n°99-522 du 21 juin 1999 - art. 1 (V)
-
-	**Cité par**:
-
-	  - Décret n°99-522 du 21 juin 1999 - art. 1 (V)
-
-
-###### Article 34
-
-Des décrets en Conseil d'Etat détermineront les stipulations que devront contenir les contrats d'engagement pour la
-navigation de grande pêche en ce qui concerne : soit le calcul du prix moyen de pêche, lorsque le salaire du marin doit être
-calculé sur ce prix ; soit sur la fixation de la valeur du produit de pêche, à partager entre l'armateur et le marin, lorsque
-l'armateur veut s'attribuer tout ou partie de la pêche d'un de ses navires, ou vendre, à un tiers, tout ou partie de la pêche
-d'un de ses navires avant l'arrivée du bâtiment au port. 
-
-Ces décrets homologueront les accords intervenus, à cet effet, entre les organisations professionnelles d'armateurs et de
-marins intéressés.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 133-1 (V)
-	  - Code du travail maritime - art. 53 (M)
-	  - Code du travail maritime - art. 58 (M)
-
-	**Liens**:
-
-	  - TXT_ASSOCIE: Décret n°1935-06-15
-
-
-### Section 2 : Suspension et rétention des salaires
-
-###### Article 50
-
-L'inexécution des obligations qui incombent au marin, soit en vertu des lois, décrets et usages en vigueur, soit en vertu du
-contrat d'engagement et des règlements particuliers auxquels le contrat se réfère, ne peut donner lieu à aucune amende ou
-suspension partielle de salaires autres que les amendes ou suspension résultant de l'application des lois pénales. 
-
-Cette disposition ne s'applique ni aux dédits stipulés dans les contrats d'engagement pour le cas de rupture du contrat avant
-le terme fixé, ni aux amendes prévues, en vertu d'usages en vigueur, dans les contrats d'engagement à la part ou au profit
-pour la pêche.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-
-## Chapitre 2 : Nourriture et couchage
-
-###### Article 72
-
-Les marins ont droit à la nourriture ou à une allocation équivalente pendant toute la durée de leur inscription au rôle
-d'équipage.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 33 (V)
-	  - Code du travail maritime - art. 72-1 (V)
-
-
-# Titre 5 : Fin du contrat liant le marin à l'armateur
-
-## Indemnités auxquelles peut donner lieu la rupture du contrat
-
-### Chapitre 1 : Dispositions communes à tous les contrats d'engagement
+## Chapitre 1 : Dispositions communes à tous les contrats d'engagement
 
 ###### Article 93
 
 Le contrat d'engagement conclu pour un temps déterminé prend normalement fin par l'expiration du temps pour lequel il a été
-conclu.
+conclu. 
 
 Le contrat d'engagement conclu pour la durée d'un voyage prend fin par l'accomplissement du voyage et par la rupture
-volontaire ou forcée du voyage.
+volontaire ou forcée du voyage. 
 
-Quelle que soit sa nature, le contrat d'engagement prend fin :
+Quelle que soit sa nature, le contrat d'engagement prend fin : 
 
 1° Par le décès du marin ; 
 
 2° Par le débarquement régulier du marin résultant notamment du consentement mutuel des parties, de la résiliation ou de la
-rupture du contrat dans les conditions et circonstances prévues aux [*L. n° 77-507 du 18 mai 1977*] articles ci-après du
-présent titre, de la résolution prononcée par jugement en vertu des dispositions de l'article 1184 du Code civil, de la mise
-à terre du marin nécessitée par une maladie ou blessure, de la prise, du naufrage ou de l'innavigabilité du navire.
+rupture du contrat dans les conditions et circonstances prévues aux articles ci-après du présent titre, de la résolution
+prononcée par jugement en vertu des dispositions de l'article 1184 du code civil, de la prise, du naufrage ou de
+l'innavigabilité du navire.
 
 **Liens relatifs à cet article**
 
@@ -2859,58 +3025,22 @@ présent titre, de la résolution prononcée par jugement en vertu des dispositi
 
 	  - Loi du 13 décembre 1926, v. init.
 
-	**Cite**:
-
-	  - Loi n°77-507 1977-05-18
-	  - Code civil - art. 1184 (V)
-
 	**Modifié par**:
 
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2009-717 du 18 juin 2009 - art. 5
+
+	**Cite**:
+
+	  - Code civil - art. 1184
 
 	**Cité par**:
 
 	  - Code du travail maritime - art. 102-1 (Ab)
 
-
-### Chapitre 2 : Contrats à durée indéterminée
-
-###### Article 102-20
-
-Les dispositions de l'article 102-6 du code du travail maritime et celles des articles L. 122-14, L. 122-14-1, L. 122-14-2 et
-L. 122-14-4 du code du travail ne sont pas applicables aux contrats conclus pour servir à bord de navires armés à la petite
-pêche ou à la pêche côtière.
-
-Il en est de même pour les contrats conclus pour servir à bord de navires armés à la navigation côtière et à la pêche au
-large lorsque le propriétaire est embarqué comme membre de l'équipage sur le navire qu'il exploite.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 25 (VD)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Modifié par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 26 () JORF 31 décembre 1986
-
-	**Abrogé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 102-6 (V)
-	  - Code du travail maritime 102-6, L122-14, L122-14-1, L122-14-2, L122-14-4
-
-
-# Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat
-
-## Chapitre 1 : Dispositions communes à tous les contrats d'engagement
 
 ###### Article 94
 
@@ -3800,6 +3930,210 @@ affréteurs.
 	  - Code des transports - art. L5542-47 (V)
 
 
+###### Article 109
+
+Le contrat d'engagement maritime conclu entre un armateur et un capitaine prend fin dans les conditions fixées au titre 5.
+
+Toutefois, l'application des dispositions du mandat confié au capitaine par l'armateur est indépendante de la procédure de
+licenciement du capitaine.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 50 (V) JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5412-8 (V)
+
+
+## Chapitre 2 : Dispositions spéciales applicables aux marins âgés de moins de dix-huit ans.
+
+###### Article 110
+
+L'autorisation donnée au premier embarquement par la personne ou l'autorité investie du droit de garde à son égard ou, à
+défaut, par le tribunal d'instance, confère à ce mineur capacité pour accomplir tous les actes se rattachant à ses
+engagements, notamment pour toucher ses salaires. 
+
+Le retrait de l'autorisation ne peut être opposé aux tiers s'il n'a pas été porté à leur connaissance avant la formation du
+contrat.
+
+L'autorisation ne peut être retirée quand le mineur a atteint l'âge de dix-huit ans.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+	  - Code du travail maritime - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-2 (V)
+
+
+###### Article 114
+
+Les marins âgés de moins de dix-huit ans ne peuvent être employés au travail des chaudières, des citernes ou des soutes, ni
+dans les compartiments de la machine où l'élévation de la température peut constituer un danger pour leur santé.
+
+Les marins de moins de dix-huit ans ne peuvent accomplir le service de quart de nuit de vingt heures à quatre heures, ni plus
+de huit heures de travail au cours d'une même journée, ni une durée de travail par semaine embarquée supérieure à la durée
+légale hebdomadaire du travail effectif. Ils doivent bénéficier, pour chaque période de vingt-quatre heures à bord, d'un
+repos minimum ininterrompu de douze heures. Ils doivent obligatoirement jouir du repos hebdomadaire d'une durée minimale de
+trente-six heures consécutives, tant à la mer qu'au port, à la date normale.
+
+Dans le service de la machine, les marins âgés de moins de dix-huit ans ne peuvent être compris dans les bordées de quart ;
+il est interdit de leur faire faire plus de quatre heures et demie de travail consécutif sans accorder un temps de pause
+minimum de trente minutes consécutives.
+
+Il peut, pour les marins âgés d'au moins seize ans, être dérogé aux dispositions du deuxième alinéa par voie d'accord
+collectif de branche étendu lorsque des conditions objectives le justifient et sous réserve que soit prévu un repos
+compensateur approprié.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+	  - Décret n°2006-534 du 10 mai 2006 - art. 14 (V)
+	  - Code de l'éducation - art. D337-167 (Ab)
+	  - Code de l'éducation - art. D337-179 (V)
+	  - Code du travail maritime - art. 117 (M)
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 115
+
+Les jeunes âgés de moins de seize ans révolus ne peuvent être embarqués à titre professionnel sur un navire.
+
+Toutefois, les jeunes âgés d'au moins quinze ans peuvent, pendant les vacances scolaires, prendre part occasionnellement aux
+activités à bord des navires de pêche, sous réserve d'une autorisation délivrée par l'autorité chargée de l'inspection du
+travail maritime et de la présentation d'un certificat d'aptitude physique délivré par un médecin des gens de mer ou par un
+médecin désigné par l'autorité chargée de l'inspection du travail maritime.
+
+Ces activités occasionnelles ne peuvent porter que sur des travaux légers tout en assurant au jeune qui y prend part un repos
+effectif d'une durée au moins égale à la moitié de chaque période de vacances scolaires.
+
+**Liens relatifs à cet article**
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+	  - Décret n°2006-534 du 10 mai 2006 - art. 3 (V)
+	  - Décret n°2006-534 du 10 mai 2006 - art. 4 (V)
+	  - Code du travail maritime - art. 111 (V)
+	  - Code du travail maritime - art. 8 (V)
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 3 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dispositions réglementaires
+
+	**Codifié par**:
+
+	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+
+###### Article 116
+
+Le capitaine ou le patron doit exercer sur le marin mineur une surveillance attentive, veiller à ce qu'il ne soit employé
+qu'aux travaux et services en rapport avec ses aptitudes physiques et se rattachant à l'exercice de sa profession ; il lui
+enseigne ou fait enseigner, progressivement, la pratique de son métier.
+
+**Liens relatifs à cet article**
+
+	**Liens**:
+
+	  - SPEC_APPLI: Dispositions réglementaires
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5545-7 (V)
+
+
+###### Article 117
+
+Un décret en Conseil d'Etat, pris après avis des organisations professionnelles d'armateurs et des syndicats de marins,
+détermine les modalités d'application du présent chapitre.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Cité par**:
+
+	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
+	  - Code du travail maritime - art. 111 (V)
+	  - Code du travail maritime - art. 8 (M)
+
+	**Modifié par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5544-32 (V)
+	  - Code des transports - art. L5545-8 (V)
+
+
 ## Chapitre 3 : Dispositions spéciales applicables aux marins étrangers
 
 ###### Article 119
@@ -3833,200 +4167,6 @@ Toutefois, l'armateur sera considéré comme ayant satisfait à l'obligation de 
 	**Modifié par**:
 
 	  - Loi n°1948-09-25 art. 2 JORF 30 SEPTEMBRE 1948
-
-
-# Titre 6 : Dispositions spéciales à certaines catégories de marins
-
-## Chapitre 1 : Capitaine
-
-###### Article 109
-
-L'armateur peut toujours congédier le capitaine, sauf dommages-intérêts en cas de renvoi injustifié. Le congédiement du
-capitaine n'est pas subordonné, hors des ports métropolitains, à l'autorisation de l'autorité chargée de l'inspection du
-travail maritime prévue au paragraphe 2 de l'article 95 ci-dessus.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 95 (M)
-
-
-## Chapitre 2 : Marins de moins de 21 ans et femmes mariées
-
-###### Article 110
-
-L'autorisation donnée au premier embarquement par la personne ou l'autorité investie du droit de garde à son égard ou, à
-défaut, par le tribunal d'instance, confère à ce mineur capacité pour accomplir tous les actes se rattachant à ses
-engagements, notamment pour toucher ses salaires. 
-
-Le retrait de l'autorisation ne peut être opposé aux tiers s'il n'a pas été porté à la connaissance avant la formation du
-contrat.
-
-L'autorisation ne peut être retirée quand le mineur a atteint l'âge de dix-huit ans.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°60-1156 1960-11-02 art. 1 JORF 5 novembre 1960
-
-	**Cité par**:
-
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
-	  - Code du travail maritime - art. 7 (V)
-
-
-###### Article 111
-
-Tout mineur embarqué pour les services du pont, de la machine ou du service général, est qualifié mousse s'il est âgé de
-moins de seize ans, novice s'il est âgé de plus de seize ans et de moins de dix-huit ans.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
-	  - Décret n°2006-534 du 10 mai 2006 - art. 2 (V)
-	  - Code de l'éducation - art. D337-167 (Ab)
-	  - Code de l'éducation - art. D337-179 (V)
-	  - Code du travail maritime - art. 114 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 114
-
-Sur les navires de plus de 250 tonneaux de jauge brute, il est interdit de faire faire aux mousses le service de quart de
-nuit de vingt heures à quatre heures ; les mousses et novices ne peuvent être employés au travail des chaufferies et des
-soutes ni à la cuisine devant les feux. 
-
-Les mousses ou novices ne peuvent accomplir plus de huit heures de travail au cours d'une même journée, sauf pour les
-manoeuvres d'entrée et de sortie des ports. Les mousses doivent obligatoirement jouir du repos hebdomadaire, tant à la mer
-qu'au port, à la date normale, ou exceptionnellement avec un retard ne pouvant dépasser quarante-huit heures. 
-
-Dans le service de la machine, les mousses ou novices ne peuvent pas être compris dans les bordées de quart. Ils ne doivent
-pas être employés plus de quatre heures par jour dans les compartiments de la machine, ni lorsque l'élévation de la
-température peut constituer un danger pour leur santé.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
-	  - Décret n°2006-534 du 10 mai 2006 - art. 14 (V)
-	  - Code de l'éducation - art. D337-167 (Ab)
-	  - Code de l'éducation - art. D337-179 (V)
-	  - Code du travail maritime - art. 117 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 115
-
-Les enfants âgés de moins de quinze ans révolus ne peuvent être embarqués à titre professionnel sur un navire. Toutefois,
-l'embarquement professionnel d'un enfant âgé de quatorze ans au moins peut être exceptionnellement autorisé par
-l'administrateur des affaires maritimes lorsqu'il est effectué dans l'intérêt de l'enfant. Il est subordonné à la
-présentation d'un certificat d'aptitude physique délivré par le médecin des gens de mer ou le médecin visé à l'article 3. 
-
-En outre, les enfants de moins de quinze ans, mais de plus de treize ans, peuvent, pendant les vacances scolaires, prendre
-part occasionnellement aux activités à bord des bateaux de pêche côtière, sous réserve de la présentation du certificat
-médical prévu à l'alinéa précédent et à condition que cet embarquement ne soit pas réalisé dans un intérêt commercial.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Dispositions réglementaires
-
-	**Modifié par**:
-
-	  - Décret n°60-865 1960-08-06 art. 8 JORF 17 août 1960
-
-	**Cité par**:
-
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
-	  - Décret n°2006-534 du 10 mai 2006 - art. 3 (V)
-	  - Décret n°2006-534 du 10 mai 2006 - art. 4 (V)
-	  - Code du travail maritime - art. 111 (V)
-	  - Code du travail maritime - art. 8 (V)
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 3 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 116
-
-Le capitaine ou le patron doit exercer sur le marin mineur une surveillance attentive, veiller à ce qu'il ne soit employé
-qu'aux travaux et services en rapport avec ses aptitudes physiques et se rattachant à l'exercice de sa profession ; il lui
-enseigne ou fait enseigner, progressivement, la pratique de son métier.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Dispositions réglementaires
-
-	**Modifié par**:
-
-	  - Décret n°55-691 1955-05-20 art. 4 JORF 30 mai 1955
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Cité par**:
-
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
-
-
-###### Article 117
-
-Un décret en Conseil d'Etat déterminera dans quelles conditions les prescriptions des articles 113 et 114 ci-dessus sont
-applicables sur les navires de commerce de jauge brute égale ou inférieure à 250 tonneaux, sur les navires de pêche ainsi que
-sur les navires armés au cabotage national ou international d'une jauge brute inférieure à 3.000 tonneaux.
-
-**Liens relatifs à cet article**
-
-	**Cité par**:
-
-	  - Ordonnance n°86-836 du 16 juillet 1986 - art. 7 (V)
-	  - Code du travail maritime - art. 111 (V)
-	  - Code du travail maritime - art. 8 (M)
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 113 (Ab)
-	  - Code du travail maritime - art. 114 (M)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
 # Titre 7 : Des litiges entre armateurs et marins
