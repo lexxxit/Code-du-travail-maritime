@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1982-03-27
+Version Consolidée au 1986-12-31
 
 # Titre 1 : Dispositions générales
 
@@ -2690,8 +2690,12 @@ présent titre, de la résolution prononcée par jugement en vertu des dispositi
 
 ###### Article 94
 
-Les dispositions des articles L. 321-3 à L. 321-5 et L. 321-7 à L. 321-12 du Code du Travail sont applicables aux entreprises
-d'armement dans des conditions déterminées par décret en Conseil d'Etat.
+Les dispositions des articles L. 321-1 à L. 321-11 et L. 322-3 du Code du Travail sont applicables au personnel navigant des
+entreprises d'armement maritime dans des conditions déterminées, compte tenu des adaptations nécessaires, par décret en
+Conseil d'Etat.
+
+Les litiges nés à l'occasion de l'application des dispositions des articles cités au premier alinéa relèvent de la compétence
+des tribunaux d'instance.
 
 **Liens relatifs à cet article**
 
@@ -2699,25 +2703,29 @@ d'armement dans des conditions déterminées par décret en Conseil d'Etat.
 
 	  - Loi du 13 décembre 1926, v. init.
 
-	**Modifié par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5 JORF 19 mai 1977
-
 	**Cité par**:
 
 	  - Décret n°78-389 du 17 mars 1978 - art. 21 (V)
 
+	**Modifié par**:
+
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 23 () JORF 31 décembre 1986
+
 	**Cite**:
 
+	  - Code du travail - art. L321-1 (M)
 	  - Code du travail - art. L321-10 (M)
 	  - Code du travail - art. L321-11 (M)
-	  - Code du travail - art. L321-12 (M)
+	  - Code du travail - art. L321-2 (M)
 	  - Code du travail - art. L321-3 (M)
 	  - Code du travail - art. L321-4 (M)
 	  - Code du travail - art. L321-5 (Ab)
+	  - Code du travail - art. L321-5-1 (Ab)
+	  - Code du travail - art. L321-6 (T)
 	  - Code du travail - art. L321-7 (M)
 	  - Code du travail - art. L321-8 (MMN)
 	  - Code du travail - art. L321-9 (M)
+	  - Code du travail - art. L322-3 (Ab)
 
 
 ###### Article 98
@@ -2763,313 +2771,37 @@ marin à débarquer immédiatement pour motif grave.
 
 ### Chapitre 2 : Contrats à durée indéterminée
 
-###### Article 102-10
-
-L'armateur qui envisage de licencier un marin doit, avant toute décision, convoquer l'intéressé par lettre recommandée avec
-demande d'avis de réception en lui indiquant l'objet de la convocation. Au cours de l'entretien, l'armateur est tenu
-d'indiquer le ou les motifs de la décision envisagée et de recueillir les explications du marin [*procédure*]. 
-
-Lors de cette audition, le marin peut se faire assister par une personne de son choix appartenant au personnel de
-l'entreprise d'armement.    Les formalités ci-dessus prévues ne peuvent être accomplies à bord du navire par le capitaine que
-si celui-ci justifie d'un mandat spécial de l'armateur. 
-
-Ainsi qu'il est prévu au dernier alinéa de l'article L. 122-14 du Code du travail, en cas de licenciement pour motif
-économique, la demande d'autorisation mentionnée à l'article L. 321-7 du même code ne peut être adressée par l'armateur à
-l'autorité administrative compétente qu'après l'entretien prescrit au premier alinéa du présent article.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Cite**:
-
-	  - Code du travail - art. L122-14 (Ab)
-	  - Code du travail - art. L321-7 (M)
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 102-11 (Ab)
-	  - Code du travail maritime - art. 102-12 (Ab)
-	  - Code du travail maritime - art. 102-16 (Ab)
-	  - Code du travail maritime - art. 102-20 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 102-16 : dispositions non applicables aux marins faisant l'objet d'un licenciement collectif à motif économique
-
-
-###### Article 102-11
-
-L'armateur qui décide de licencier un marin doit notifier le licenciement par lettre recommandée avec demande d'avis de
-réception [*formalités obligatoires*] ; la date de présentation de la lettre recommandée détermine le point de départ du
-délai-congé.
-
-Cette lettre ne peut être expédiée au plus tôt que deux jours après celui pour lequel le marin a été convoqué en application
-de l'article 102-10.
-
-Ainsi qu'il est prévu au dernier alinéa de l'article L. 122-14-1 du Code du travail, en cas de licenciement pour motif
-économique, cette lettre ne peut être expédiée qu'après réception de l'autorisation de l'autorité administrative compétente
-exigée par l'article L. 321-9 du Code du travail ou expiration du délai imparti à cette autorité pour répondre.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Abrogé par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Cite**:
-
-	  - Code du travail - art. L122-14-1 (M)
-	  - Code du travail - art. L321-9 (M)
-	  - Code du travail maritime - art. 102-10 (M)
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 102-12 (Ab)
-	  - Code du travail maritime - art. 102-20 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 102-20 : non application
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 102-12
-
-Les lettres recommandées prévues aux articles 102-10 et 102-11 peuvent être remplacées par la remise en main propre d'une
-notification écrite qui donne lieu à l'établissement d'un procès-verbal ou encore par une mention au journal de bord signée
-par le marin.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Abrogé par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 102-10 (M)
-	  - Code du travail maritime - art. 102-11 (Ab)
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 102-20 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 102-20 : non application
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 102-13
-
-L'armateur, ou le capitaine s'il justifie d'un mandat spécial de l'armateur, est tenu, à la demande écrite du marin,
-d'énoncer la ou les causes réelles et sérieuses du licenciement. 
-
-Les délais et conditions de la demande et de l'énonciation sont fixés par voie réglementaire.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 24 (M)
-	  - Code du travail maritime - art. 102-15 (Ab)
-	  - Code du travail maritime - art. 102-16 (Ab)
-	  - Code du travail maritime - art. 102-20 (M)
-
-	**Abrogé par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 102-16 : dispositions non applicables aux marins faisant l'objet d'un licenciement collectif à motif économique
-
-
-###### Article 102-14
-
-En cas de litige, le juge à qui il appartient d'apprécier la régularité de la procédure suivie et le caractère réel et
-sérieux des motifs invoqués par l'armateur forme sa conviction au vu des éléments fournis par les parties et, au besoin,
-après toutes mesures d'instruction qu'il estime utiles.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Abrogé par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 102-9 (V)
-
-
-###### Article 102-15
-
-Si le licenciement d'un marin survient sans observation de la procédure définie aux articles précédents, mais pour une cause
-répondant aux exigences de l'article 102-13 [*réelle et sérieuse*], le tribunal saisi doit imposer à l'armateur d'accomplir
-la procédure prévue et accorder au marin, à la charge de l'armateur, une indemnité qui ne peut être supérieure à un mois de
-salaire ; si ce licenciement survient pour une cause ne répondant pas aux exigences de l'article 102-13, le tribunal peut
-proposer la réintégration dans l'entreprise du marin titularisé ou stabilisé ou le renouvellement du contrat d'engagement du
-marin non titulaire ou non stabilisé, dans des conditions équivalentes, dans un délai et selon des modalités fixés par voie
-réglementaire ; à défaut d'une telle proposition ou en cas de refus par l'une ou l'autre des parties, le tribunal octroie au
-marin une indemnité. Cette indemnité ne peut être inférieure au salaire des six derniers mois ; elle est due sans préjudice,
-le cas échéant, de l'indemnité prévue à l'article 102-3.
-
-Le tribunal ordonne également le remboursement par l'armateur fautif, aux organismes concernés, des indemnités de chômage
-payées au marin licencié du jour de son licenciement au jour du jugement prononcé par le tribunal.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Cité par**:
-
-	  - Décret n°78-389 du 17 mars 1978 - art. 22 (V)
-	  - Code du travail maritime - art. 102-16 (Ab)
-	  - Code du travail maritime - art. 102-17 (Ab)
-	  - Code du travail maritime - art. 102-20 (M)
-	  - Code du travail maritime - art. 102-5 (V)
-
-	**Abrogé par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 102-13 (Ab)
-	  - Code du travail maritime - art. 102-3 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 102-20 : non application
-
-
-###### Article 102-16
-
-Les dispositions des articles 102-10, 102-13 et 102-15 ne sont pas applicables aux marins qui font l'objet d'un licenciement
-collectif justifié par un motif économique.
-
-**Liens relatifs à cet article**
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Abrogé par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 102-10 (M)
-	  - Code du travail maritime - art. 102-13 (Ab)
-	  - Code du travail maritime - art. 102-15 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 102-17
-
-Les dispositions de l'article 102-15 ne sont pas applicables aux marins qui ont moins de deux ans d'ancienneté de services
-continus.
-
-Ces marins peuvent prétendre, en cas de licenciement abusif, à une indemnité fixée comme il est dit aux articles 95 et 100.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
-	**Abrogé par**:
-
-	  - Loi n°86-1320 du 30 décembre 1986 - art. 25 () JORF 31 décembre 1986
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 100 (V)
-	  - Code du travail maritime - art. 102-15 (Ab)
-	  - Code du travail maritime - art. 95 (M)
-
-
 ###### Article 102-20
 
-Les dispositions des articles 102-6, 102-10 à 102-13, 102-15, ne sont pas applicables aux contrats conclus pour servir à bord
-de navires armés à la petite pêche ou à la pêche côtière. 
+Les dispositions de l'article 102-6 du code du travail maritime et celles des articles L. 122-14, L. 122-14-1, L. 122-14-2 et
+L. 122-14-4 du code du travail ne sont pas applicables aux contrats conclus pour servir à bord de navires armés à la petite
+pêche ou à la pêche côtière.
 
 Il en est de même pour les contrats conclus pour servir à bord de navires armés à la navigation côtière et à la pêche au
 large lorsque le propriétaire est embarqué comme membre de l'équipage sur le navire qu'il exploite.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°77-507 1977-05-18 art. 2, art. 3, art. 5, JORF 19 mai 1977
-
 	**Cité par**:
 
 	  - Décret n°78-389 du 17 mars 1978 - art. 25 (VD)
 
-	**Cite**:
-
-	  - Code du travail maritime - art. 102-10 (M)
-	  - Code du travail maritime - art. 102-11 (Ab)
-	  - Code du travail maritime - art. 102-12 (Ab)
-	  - Code du travail maritime - art. 102-13 (Ab)
-	  - Code du travail maritime - art. 102-15 (Ab)
-	  - Code du travail maritime - art. 102-6 (V)
-
 	**Codifié par**:
 
 	  - Loi n°1926-12-13 JORF 15 décembre 1926
+
+	**Modifié par**:
+
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 26 () JORF 31 décembre 1986
+
+	**Abrogé par**:
+
+	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 102-6 (V)
+	  - Code du travail maritime 102-6, L122-14, L122-14-1, L122-14-2, L122-14-4
 
 
 # Titre 5 : De la fin du contrat liant le marin à l'armateur et des indemnités auxquelles peut donner lieu la rupture de ce contrat
@@ -3522,6 +3254,50 @@ L'article 102-14 du code du travail maritime a été abrogé par l'article 25 de
 
 	  - Code du travail maritime - art. 102-1 (V)
 	  - Code du travail maritime - art. 102-14 (Ab)
+
+
+###### Article 102-10
+
+Les dispositions des articles L. 122-14 à L. 122-14-5 du code du travail sont applicables aux marins dans des conditions
+déterminées, compte tenu des adaptations nécessaires, par décret en Conseil d'Etat.
+
+**Nota:**
+
+Les articles du code du travail mentionnés dans le présent article ont été abrogés par l'ordonnance n° 2007-329 du 12 mars
+2007 et codifiés dans la nouvelle partie législative du code du travail.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°86-1320 du 30 décembre 1986 - art. 24 () JORF 31 décembre 1986
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-42 (V)
+
+	**Cite**:
+
+	  - Code du travail - art. L122-14 (VT)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 102-11 (Ab)
+	  - Code du travail maritime - art. 102-12 (Ab)
+	  - Code du travail maritime - art. 102-16 (Ab)
+	  - Code du travail maritime - art. 102-20 (M)
+
+	**Liens**:
+
+	  - SPEC_APPLI: Code du travail maritime 102-20 : non application
 
 
 ###### Article 102-18
