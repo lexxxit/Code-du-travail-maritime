@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1959-05-16
+Version Consolidée au 1959-11-25
 
 # Titre 1 : Dispositions générales
 
@@ -2387,48 +2387,6 @@ Dispositions abrogées.
 
 # Titre 7 : Litiges entre armateurs et marins
 
-###### Article 120
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 80 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 122
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
 ###### Article 123
 
 Dispositions abrogées.
@@ -2448,159 +2406,33 @@ Dispositions abrogées.
 	  - Loi n°1926-12-13 JORF 15 décembre 1926
 
 
-###### Article 124
+# Titre 7 : Des litiges entre armateurs et marins
 
-Dispositions abrogées.
+###### Article 121
 
-**Liens relatifs à cet article**
+Les dispositions des articles 75 et 76 du livre IV du code du travail (1) sont applicables aux litiges visés par l'article
+précédent.
 
-	**Liens**:
+**Nota:**
 
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 125
-
-Dispositions abrogées.
+(1) Décret 58-1292 du 22 décembre 1958 art. 103 : cet article a abrogé les articles 3 à 103 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Liens**:
+	**Codifié par**:
 
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°51-686 1951-05-24 art. 6 JORF 2 juin 1951
+
+	**Cité par**:
+
+	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab)
 
 	**Abrogé par**:
 
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 126
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 127
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 128
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 129
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 130
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L5542-49 (Ab)
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-
-###### Article 131
-
-Dispositions abrogées.
-
-**Liens relatifs à cet article**
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Abrogé par**:
-
-	  - Décret n°59-1337 du 20 novembre 1959 - art. 1 (Ab) JORF 25 novembre 1959
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
