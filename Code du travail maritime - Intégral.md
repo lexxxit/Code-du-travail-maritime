@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 1934-07-13
+Version Consolidée au 1935-10-31
 
 # Titre 1 : Dispositions générales
 
@@ -161,6 +161,17 @@ L'article 118 du code du travail maritime a été abrogé par l'article 2 de la 
 	**Cité par**:
 
 	  - Code du travail maritime - art. 4 (V)
+
+
+###### Article 8
+
+Dispositions abrogées.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
 
 
 ###### Article 9
