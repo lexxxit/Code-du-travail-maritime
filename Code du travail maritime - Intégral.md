@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2004-07-14
+Version Consolidée au 2006-01-06
 
 # Titre 1 : Dispositions générales
 
@@ -110,31 +110,94 @@ pas applicable aux marins engagés en France pour servir sur un navire étranger
 	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
 
 
+###### Article 5-1
+
+Les personnels employés à bord des navires utilisés pour fournir de façon habituelle, dans les eaux territoriales ou
+intérieures françaises, des prestations de services de remorquage portuaire et de lamanage sont soumis aux dispositions
+législatives, réglementaires et conventionnelles du lieu de prestation, applicables en matière de législation du travail aux
+salariés employés par les entreprises de la même branche, établies en France, pour ce qui concerne les matières suivantes :
+
+- libertés individuelles et collectives dans la relation de travail, exercice du droit de grève ;
+
+- durée du travail, repos compensateurs, jours fériés, congés annuels payés, congés pour événements familiaux, congés de
+maternité, congés de paternité, conditions d'assujettissement aux caisses de congés et intempéries ;
+
+- salaire minimum et paiement du salaire, y compris les majorations pour les heures supplémentaires ;
+
+- conditions de mise à disposition et garanties dues aux travailleurs par les entreprises exerçant une activité de travail
+temporaire ;
+
+- règles relatives à la sécurité, la santé, l'hygiène au travail et la surveillance médicale ;
+
+- discrimination et égalité professionnelle entre les femmes et les hommes, protection de la maternité, âge d'admission au
+travail, emploi des enfants, durée du travail et travail de nuit des jeunes travailleurs ;
+
+- travail illégal.
+
+Un décret détermine les conditions d'application du présent article, notamment celles dans lesquelles des formalités
+déclaratives sont exigées des prestataires étrangers, ainsi que les formalités dont ceux-ci sont dispensés.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 43 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+
+###### Article 5-2
+
+Les articles L. 122-25 à L. 122-25-1-2 du code du travail sont applicables aux femmes exerçant la profession de marin selon
+des modalités déterminées par décret en Conseil d'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 45 () JORF 6 janvier 2006
+
+	**Cite**:
+
+	  - Code du travail - art. L122-25 (VT)
+
+
 # Titre 2 : De la formation et de la constatation du contrat d'engagement
 
 ###### Article 6
 
-Le placement des travailleurs se proposant de contracter un engagement maritime a lieu [*embauche*] :
-
-1° Par embauchage direct ;
-
-2° Par l'entremise des bureaux paritaires de placement maritime organisés par décret ;
-
-3° Par l'entremise des offices de renseignements pour les offres et les demandes de travail, créés par les syndicats
-professionnels.
-
-Aucune opération de placement ne peut donner lieu au payement d'une rémunération quelconque de la part du marin. Toute
-infraction à cette disposition sera punie des peines portées à l'article 102 du livre 1er (art. R. 361-2) du Code du travail.
+Un décret en Conseil d'Etat précise les modalités d'application au placement des marins du titre Ier du livre III du code du
+travail. Ce décret fixe notamment les modalités d'agrément, pour le placement des marins, des organismes privés de placement,
+les contrôles à exercer préalablement au placement, ainsi que les conditions de tenue du registre des marins placés par leur
+intermédiaire.
 
 **Liens relatifs à cet article**
 
-	**Cite**:
-
-	  - Code du travail - art. R361-2 (M)
-
 	**Codifié par**:
 
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5546-1 (V)
 
 
 ###### Article 7
@@ -231,14 +294,39 @@ Conseil d'Etat.
 
 ###### Article 9
 
-Toutes les clauses et stipulations du contrat d'engagement doivent, à peine de nullité, être inscrites ou annexées au rôle
-d'équipage.
+Le marin signe le contrat d'engagement et en reçoit un exemplaire avant l'embarquement. L'armateur en adresse simultanément
+une copie à l'inspecteur du travail maritime, pour enregistrement.
+
+Le contrat d'engagement mentionne l'adresse et le numéro d'appel de l'inspection du travail maritime.
+
+Les clauses et stipulations du contrat d'engagement sont annexées au rôle d'équipage qui mentionne le lieu et la date
+d'embarquement.
+
+**Nota:**
+
+Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
+effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le deuxième
+alinéa de l'article 9 (Fin de vigueur : date indéterminée).
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-3 (V)
+	  - Code des transports - art. L5542-5 (V)
 
 	**Cité par**:
 
@@ -530,50 +618,6 @@ relatif à la formation professionnelle continue.
 	**Nouveaux textes**:
 
 	  - Code des transports - art. L5542-3 (V)
-
-
-###### Article 12
-
-Les conditions générales d'engagement doivent être tenues, par l'armateur, à la disposition des marins, et lecture doit en
-être donnée, par l'autorité chargée de l'inspection du travail maritime, au moment de l'inscription du marin au rôle
-d'équipage qui doit mentionner le lieu et la date d'embarquement.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Modifié par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 49 () JORF 19 novembre 1997
-
-	**Abrogé par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
-
-
-###### Article 13
-
-Le contrat d'engagement est visé par l'autorité chargée de l'inspection du travail maritime. 
-
-L'autorité chargée de l'inspection du travail maritime ne peut régler les conditions de l'engagement. Toutefois, elle a le
-droit de refuser son visa lorsque le contrat contient une clause contraire aux dispositions d'ordre public inscrites dans la
-présente loi.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Modifié par**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-	**Abrogé par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
 
 
 ###### Article 14
@@ -1132,6 +1176,39 @@ décret compte tenu des modes d'exploitation des navires de pêche concernés.
 	  - Code du travail maritime - art. 92-1 (V)
 
 
+###### Article 25-2
+
+Dans les activités maritimes dont la nature ne permet pas de fixer avec précision les périodes de travail et la répartition
+des heures de travail au sein de celles-ci, une convention ou un accord collectif déterminent les adaptations nécessaires.
+Ces accords précisent notamment les conditions dans lesquelles le marin peut refuser les dates et les horaires de travail qui
+lui sont proposés.
+
+La liste de ces activités est fixée par décret.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 49 () JORF 6 janvier 2006
+
+	**Cité par**:
+
+	  - Décret n°2007-1843 du 26 décembre 2007 (V)
+	  - Décret n°2007-1843 du 26 décembre 2007 - art. 4 (V)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5544-12 (V)
+
+
 ###### Article 26
 
 La rémunération du travail est fixée par le contrat d'engagement, dans le cadre des conventions ou accords collectifs
@@ -1253,31 +1330,32 @@ article.
 
 ###### Article 28
 
-Sauf les exceptions et dérogations prévues à l'article 30 ci-après, un repos complet d'une journée par semaine doit être
-accordé au marin lorsque l'engagement maritime est d'une durée supérieure à six jours.
+Sous réserve des dispositions prévues aux articles 29 et 30, le repos hebdomadaire est donné le dimanche. 
 
-Le dimanche est le jour consacré au repos hebdomadaire.
+Toutefois, pour tenir compte des contraintes propres aux activités maritimes, une convention ou un accord collectif, un
+accord d'entreprise ou d'établissement peuvent prévoir la prise du repos hebdomadaire : 
 
-Sans préjudice d'accords collectifs plus favorables, les modalités d'application du présent article sont déterminées par un
-décret en Conseil d'Etat pour tenir compte des contraintes propres aux diverses activités maritimes, ainsi que du genre de
-navigation ou de la catégorie de personnel. Ce décret prévoit notamment les cas où l'armateur ou son représentant est admis à
-donner à tout ou partie de l'équipage le repos hebdomadaire selon l'une des modalités ci-après :
+a) Par roulement ; 
 
-a) Par roulement ;
+b) De manière différée, au retour au port ; 
 
-b) De manière différée au retour au port de débarquement ;
+c) En cours de voyage, dans un port d'escale. 
 
-c) De manière différée au cours du voyage dans un port d'escale.
+Dans le cas où le repos hebdomadaire est différé, la convention ou l'accord doit prévoir des mesures compensatoires et
+préciser le délai maximum dans lequel il doit être pris. 
+
+A défaut de convention ou d'accord collectif de travail, l'armateur fixe les modalités retenues, en se référant aux usages et
+après consultation du comité d'entreprise et des délégués de bord, s'ils existent. Il en informe l'inspecteur du travail
+maritime. 
+
+Les modalités d'application du présent article, notamment le délai au-delà duquel le repos hebdomadaire ne peut être différé,
+sont fixées par décret.
 
 **Liens relatifs à cet article**
 
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°97-1051 du 18 novembre 1997 - art. 46 () JORF 19 novembre 1997
 
 	**Cité par**:
 
@@ -1287,13 +1365,21 @@ c) De manière différée au cours du voyage dans un port d'escale.
 	  - Code de la recherche - art. L431-3 (V)
 	  - Code du travail maritime - art. 104 (M)
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 49 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5544-18 (M)
+
 	**Cite**:
 
-	  - Code du travail maritime - art. 30 (V)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Code du travail maritime 104 : non application au capitaine
+	  - Code du travail maritime - art. 29 (V)
 
 
 ###### Article 28-1
@@ -3051,75 +3137,35 @@ cesse d'avoir droit à salaire. Il a droit à la nourriture du bord jusqu'à son
 
 ###### Article 87
 
-Sauf les exceptions prévues à l'article 89 ci-après, le marin débarqué, ou délaissé en fin de contrat, hors du port
-métropolitain [*à l'étranger*], doit être rapatrié aux frais du navire. 
+L'armateur organise le rapatriement du marin dans les cas suivants : 
 
-A l'égard des marins qui ont été embarqués dans un territoire d'outre-mer, le rapatriement doit être effectué dans ce
-territoire, à moins qu'il ait été stipulé que le marin serait ramené en France.
+1° Quand le contrat à durée déterminée ou au voyage prend fin dans un port non métropolitain ; 
 
-**Liens relatifs à cet article**
+2° A la fin de la période de préavis ; 
 
-	**Codifié par**:
+3° Dans les cas de congédiement prévus à l'article 98 ou de débarquement pour motif disciplinaire ; 
 
-	  - Loi du 13 décembre 1926, v. init.
+4° En cas de maladie, d'accident ou pour toute autre raison d'ordre médical nécessitant son débarquement ; 
 
-	**Cité par**:
+5° En cas de naufrage ; 
 
-	  - Code des transports - art. L5549-1 (V)
-	  - Code du travail maritime - art. 119 (V)
+6° Quand l'armateur n'est plus en mesure de remplir ses obligations légales ou contractuelles d'employeur pour cause de
+faillite, changement d'immatriculation, vente du navire ou toute autre raison analogue ; 
 
-	**Cite**:
+7° En cas de suspension ou de cessation de l'emploi ; 
 
-	  - Code du travail maritime - art. 89 (M)
+8° A l'issue d'une période d'embarquement maximale de six mois, qui peut être portée à neuf mois par accord collectif. Cette
+période peut être prolongée ou réduite d'un mois au plus pour des motifs liés à l'exploitation commerciale du navire ; 
 
+9° Quand le navire fait route vers une zone de conflit armé où le marin n'accepte pas de se rendre. 
 
-###### Article 88
+L'armateur est déchargé de son obligation si le marin n'a pas demandé son rapatriement dans un délai de trente jours suivant
+son débarquement. 
 
-Le rapatriement comprend le transport, le logement et la nourriture du marin rapatrié. 
+Sauf convention contraire, le marin qui n'est pas débarqué à son port d'embarquement a droit à la conduite jusqu'à ce port. 
 
-Il ne comprend pas la fourniture des vêtements. Toutefois, le capitaine doit, en cas de nécessité, faire l'avance des frais
-de vêtements indispensables.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 85 (M)
-
-
-###### Article 89
-
-Les frais de rapatriement du marin débarqué en cours de route, après résiliation de l'engagement, par volonté commune des
-parties, sont réglés par les conventions des parties. 
-
-Sont à la charge du marin les frais de rapatriement du marin débarqué soit pour raison disciplinaire, soit à la suite d'une
-blessure ou d'une maladie contractée dans les conditions de l'article 80 ci-dessus. 
-
-Sont à la charge de l'Etat les frais de rapatriement du marin débarqué pour passer en jugement et pour subir une peine.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Cite**:
-
-	  - Code du travail maritime - art. 86 (V)
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 87 (M)
-
-
-###### Article 90
-
-Sauf convention contraire, le marin qui n'est pas débarqué ou qui n'est pas rapatrié à son port français d'embarquement, a
-droit à la conduite jusqu'à ce port.
+L'armateur assure dans les mêmes conditions et selon les mêmes modalités le rapatriement des personnels n'exerçant pas la
+profession de marin employé à bord.
 
 **Liens relatifs à cet article**
 
@@ -3133,7 +3179,162 @@ droit à la conduite jusqu'à ce port.
 
 	**Cité par**:
 
+	  - Code des transports - art. L5549-1 (V)
+	  - Code du travail maritime - art. 119 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 98 (V)
+
+
+###### Article 88
+
+Le rapatriement comprend :
+
+1° Le transport jusqu'à la destination qui peut être, au choix du marin :
+
+a) Le lieu d'engagement du marin ou son port d'embarquement ;
+
+b) Le lieu stipulé par convention ou accord collectif ;
+
+c) Le pays de résidence du marin ;
+
+d) Tout autre lieu convenu entre les parties ;
+
+2° Le logement et la nourriture depuis le moment où le marin quitte le navire jusqu'à son arrivée à la destination choisie.
+
+Le rapatriement ne comprend pas la fourniture de vêtements. Toutefois, en cas de nécessité, le capitaine doit faire l'avance
+des frais de vêtements indispensables. Le rapatriement doit être effectué par des moyens appropriés et rapides, le mode
+normal étant la voie aérienne.
+
+Le passeport ou toute autre pièce d'identité confiée au capitaine par le marin est immédiatement restitué en vue du
+rapatriement.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 2006-01-05 art. 50 1° JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-31 (V)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 85 (M)
+
+
+###### Article 89
+
+L'armateur ne peut exiger du marin aucune participation aux frais de rapatriement. 
+
+Sous réserve des dispositions de l'article 90, les frais de rapatriement sont à la charge de l'armateur. 
+
+Le temps passé dans l'attente du rapatriement et la durée du voyage ne doivent pas être déduits des congés payés que le marin
+a acquis.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 2006-01-05 art. 50 1° JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-32 (V)
+	  - Code des transports - art. L5544-23 (V)
+
+	**Cité par**:
+
+	  - Code du travail maritime - art. 87 (M)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 90 (V)
+
+
+###### Article 90
+
+La prise en charge des frais de rapatriement du marin débarqué en cours de voyage après résiliation du contrat par volonté
+commune des parties est réglée par convention de celles-ci.
+
+Les frais de rapatriement du marin débarqué pour faute grave ou à la suite d'une blessure ou d'une maladie contractée dans
+les conditions prévues à l'article 86 sont à sa charge, l'armateur devant toutefois en faire l'avance.
+
+Les frais de rapatriement du marin débarqué à la demande de l'autorité judiciaire ou de l'autorité administrative sont à la
+charge de l'Etat.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Modifié par**:
+
+	  - Loi n°2006-10 2006-01-05 art. 50 1° JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-33 (V)
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 86 (V)
+
+	**Cité par**:
+
 	  - Code du travail maritime - art. 89 (V)
+
+
+###### Article 90-1
+
+Est puni de 7 500 euros d'amende le fait, pour un armateur, de ne pas procéder au rapatriement d'un marin. La peine est
+portée à six mois d'emprisonnement et 15 000 euros d'amende en cas de récidive. 
+
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code
+pénal, de l'infraction définie au précédent alinéa. Les peines encourues par les personnes morales sont : 
+
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ; 
+
+2° Les peines mentionnées aux 5°,6° et 9° de l'article 131-39 du même code.
+
+**Liens relatifs à cet article**
+
+	**Codifié par**:
+
+	  - Loi du 13 décembre 1926, v. init.
+
+	**Créé par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 50
+
+	**Cite**:
+
+	  - Code pénal - art. 121-2 (V)
+	  - Code pénal - art. 131-38 (V)
+	  - Code pénal - art. 131-39 (V)
 
 
 ## Chapitre 5 : Des créances et privilèges des marins
@@ -4037,7 +4238,7 @@ travail maritime.
 
 ###### Article 104
 
-Les dispositions des articles 24 à 30 ci-dessus relatifs à la réglementation du travail ne sont pas applicables au capitaine.
+Les modalités d'application au capitaine des articles 24 à 30 sont déterminées par décret.
 
 **Liens relatifs à cet article**
 
@@ -4045,15 +4246,21 @@ Les dispositions des articles 24 à 30 ci-dessus relatifs à la réglementation 
 
 	  - Loi du 13 décembre 1926, v. init.
 
+	**Modifié par**:
+
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 49 () JORF 6 janvier 2006
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5544-33 (V)
+
 	**Cite**:
 
 	  - Code du travail maritime - art. 24 (V)
-	  - Code du travail maritime - art. 25 (M)
-	  - Code du travail maritime - art. 26 (M)
-	  - Code du travail maritime - art. 27 (Ab)
-	  - Code du travail maritime - art. 28 (M)
-	  - Code du travail maritime - art. 29 (V)
-	  - Code du travail maritime - art. 30 (V)
 
 
 ###### Article 105
@@ -4572,54 +4779,25 @@ précédent.
 
 ###### Article 122
 
-L'inspection du travail maritime est régie par les deuxième et troisième alinéas de l'article L. 742-1 du code du travail.
+L'inspection du travail maritime est régie par les dispositions de l'article L. 742-1-1 du code du travail.
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-	**Cite**:
-
-	  - Code du travail - art. L742-1 (M)
-
 	**Codifié par**:
 
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
+	  - Loi du 13 décembre 1926, v. init.
 
+	**Modifié par**:
 
-###### Article 123
-
-Les officiers et fonctionnaires relevant du ministère chargé de la marine marchande, mentionnés au troisième alinéa de
-l'article L. 742-1 du code du travail, sont habilités à constater les infractions aux dispositions des régimes du travail
-applicables aux personnels embarqués sur les navires immatriculés dans un territoire d'outre-mer qui font escale dans un port
-d'un département français ou de Saint-Pierre-et-Miquelon.
-
-Pour les navires touchant les rades et ports étrangers, la constatation des infractions mentionnées à l'alinéa précédent est
-confiée à l'autorité consulaire, à l'exclusion des agents consulaires.
-
-**Liens relatifs à cet article**
-
-	**Cite**:
-
-	  - Code du travail - art. L742-1 (M)
-
-	**Liens**:
-
-	  - SPEC_APPLI: Décret n°59-1137 1959-11-20 ART. 1 : abroge et remplace le titre 7 par des dispositions réglementaires
-
-	**Codifié par**:
-
-	  - Loi n°1926-12-13 JORF 15 décembre 1926
-
-	**Créé par**:
-
-	  - Ordonnance n°98-522 du 24 juin 1998 - art. 32 () JORF 27 juin 1998
+	  - Loi n°2006-10 du 5 janvier 2006 - art. 46 () JORF 6 janvier 2006
 
 	**Abrogé par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 46 () JORF 6 janvier 2006
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Cite**:
+
+	  - Code du travail - art. L742-1-1 (V)
 
 
 # Titre 9 : Dispositions diverses
