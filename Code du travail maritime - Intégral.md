@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2006-02-24
+Version Consolidée au 2008-04-09
 
 # Titre 1 : Dispositions générales
 
@@ -49,26 +49,39 @@ pour le compte desquels un navire est armé.
 Est considéré comme marin, pour l'application de la présente loi, quiconque s'engage, envers l'armateur ou son représentant,
 pour servir à bord d'un navire.
 
-A bord des navires battant pavillon français, le capitaine et l'officier chargé de sa suppléance doivent être français. Les
-autres membres de l'équipage doivent être ressortissants d'un Etat membre de la Communauté européenne ou d'un Etat partie à
-l'accord sur l'Espace économique européen dans une proportion minimale fixée par arrêté du ministre chargé de la marine
-marchande, en fonction des caractéristiques techniques des navires ou de leur mode d'exploitation.
+A bord des navires battant pavillon français, le capitaine et l'officier chargé de sa suppléance sont ressortissants d'un
+Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur l'Espace économique européen ou de la Confédération
+suisse. L'accès à ces fonctions est subordonné à la possession de qualifications professionnelles et à la vérification d'un
+niveau de connaissance de la langue française et des matières juridiques permettant la tenue des documents de bord et
+l'exercice des prérogatives de puissance publique dont le capitaine est investi. Un décret en Conseil d'Etat, pris après avis
+des organisations représentatives d'armateurs, de gens de mer et de pêcheurs intéressées, précise les conditions
+d'application de cette dernière disposition. 
+
+Les membres de l'équipage sont ressortissants d'un Etat membre de la Communauté européenne, d'un Etat partie à l'accord sur
+l'Espace économique européen ou de la Confédération suisse dans une proportion minimale fixée par arrêté du ministre chargé
+de la mer pris, après avis des organisations représentatives d'armateurs, de gens de mer et de pêcheurs intéressées, en
+fonction des caractéristiques techniques des navires, de leur mode d'exploitation et de la situation de l'emploi.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
 	**Modifié par**:
 
-	  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
+	  - Loi n°2008-324 du 7 avril 2008 - art. 1
 
 	**Cité par**:
 
 	  - Décret n°2008-1143 du 6 novembre 2008 - art. 1 (VT)
 	  - Code du travail - art. R742-38 (Ab)
 	  - Code du travail maritime - art. 115 (M)
+
+	**Abrogé par**:
+
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5511-1 (V)
+	  - Code des transports - art. L5521-1 (V)
 
 
 ###### Article 4
