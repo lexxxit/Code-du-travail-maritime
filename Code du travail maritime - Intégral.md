@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2008-04-09
+Version Consolidée au 2008-05-01
 
 # Titre 1 : Dispositions générales
 
@@ -167,22 +167,26 @@ déclaratives sont exigées des prestataires étrangers, ainsi que les formalit�
 
 ###### Article 5-2
 
-Les articles L. 122-25 à L. 122-25-1-2 du code du travail sont applicables aux femmes exerçant la profession de marin selon
-des modalités déterminées par décret en Conseil d'Etat.
+Les articles L. 1225-1 à L. 1225-15 du code du travail sont applicables aux femmes exerçant la profession de marin selon des
+modalités déterminées par décret en Conseil d'Etat.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi du 13 décembre 1926, v. init.
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 45 () JORF 6 janvier 2006
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5542-37 (V)
 
 	**Cite**:
 
-	  - Code du travail - art. L122-25 (VT)
+	  - Code du travail - art. L1225-1 (V)
 
 
 # Titre 2 : De la formation et de la constatation du contrat d'engagement
@@ -1032,28 +1036,32 @@ Les articles du code du travail mentionnés dans le présent article ont été a
 
 ###### Article 24-3
 
-Les dispositions de l'article L. 222-1 du code du travail et les dispositions des articles L. 222-5 à L. 222-7 du même code
-sont applicables aux personnels navigants des entreprises d'armement maritime. 
+Les dispositions de l'article L. 3133-1 du code du travail et les dispositions des articles L. 3133-4 à L. 3133-6 du même
+code sont applicables aux personnels navigants des entreprises d'armement maritime. 
 
 Pour être rendus obligatoires à l'ensemble des armateurs et des gens de mer par arrêté du ministre chargé du travail et du
 ministre chargé de la mer, les accords nationaux ou les conventions collectives doivent prévoir les conditions dans
-lesquelles les fêtes légales mentionnées à l'article L. 222-1 du code du travail sont prises en compte dans les temps de
+lesquelles les fêtes légales mentionnées à l'article L. 3133-1 du code du travail sont prises en compte dans les temps de
 repos à terre des marins.
 
 **Liens relatifs à cet article**
 
-	**Codifié par**:
+	**Modifié par**:
 
-	  - Loi du 13 décembre 1926, v. init.
+	  - Ordonnance n°2007-329 du 12 mars 2007 - art. 3 (V)
 
-	**Créé par**:
+	**Abrogé par**:
 
-	  - Ordonnance n°2004-691 du 12 juillet 2004 - art. 9 () JORF 14 juillet 2004
+	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
+
+	**Nouveaux textes**:
+
+	  - Code des transports - art. L5544-22 (V)
 
 	**Cite**:
 
-	  - Code du travail - art. L222-1 (VT)
-	  - Code du travail - art. L222-5 (VT)
+	  - Code du travail - art. L3133-1 (V)
+	  - Code du travail - art. L3133-4 (V)
 
 
 ###### Article 25
