@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2010-12-01
+Version Consolidée au 2011-03-31
 
 # Titre 2 : De la formation et de la constatation du contrat d'engagement
 
@@ -246,5 +246,41 @@ alinéa de l'article 113 les mots " après avis du médecin des gens de mer ". (
 	  - Code des transports - art. L5544-27 (V)
 	  - Code des transports - art. L5544-28 (V)
 	  - Code des transports - art. L5544-29 (V)
+
+
+# Titre 9 : Dispositions diverses
+
+###### Article 133-1
+
+Pour l'application à Mayotte de l'article 9, la seconde phrase du premier alinéa est supprimée. 
+
+Pour l'application de l'article 25-1, à défaut d'accord national professionnel ou d'accord de branche étendus, tels que
+prévus par cet article, applicables à Mayotte, la durée du travail est calculée sur une base annuelle de deux cent vingt-cinq
+jours par an, y compris les heures de travail effectuées à terre. Les modalités de prise en compte des heures de travail
+effectuées à terre, les conditions de dérogation à cette limite, dans le respect d'un plafond de deux cent cinquante jours,
+compte tenu des modes d'exploitation des navires concernés, les activités de pêche pour lesquelles cette durée peut être
+calculée sur la moyenne de deux années consécutives sont déterminées par décret. 
+
+Pour l'application de l'article 34, à défaut d'accord national professionnel ou d'accord de branche étendus, tels que prévus
+par cet article, applicables à Mayotte, la ou les périodes de travail retenues pour le calcul du salaire minimum de
+croissance des marins rémunérés à la part peuvent être supérieures au mois dans la limite de douze mois consécutifs calculées
+sur une année civile, indépendamment de la durée de travail effectif. Le contrat d'engagement maritime précise ces périodes.
+
+**Nota:**
+
+L'article 25-1 du code du travail maritime a été codifié aux articles L. 5544-6 et L. 5544-7 du code des transports.
+L'article 34 du code du travail maritime a été codifié aux articles L. 5544-39 et L. 5544-41 du code des transports.
+
+**Liens relatifs à cet article**
+
+	**Créé par**:
+
+	  - Loi n°2010-1487 du 7 décembre 2010 - art. 29
+
+	**Cite**:
+
+	  - Code du travail maritime - art. 25-1
+	  - Code du travail maritime - art. 34
+	  - Code du travail maritime - art. 9
 
 
