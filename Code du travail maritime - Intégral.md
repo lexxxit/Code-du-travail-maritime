@@ -1,48 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2011-03-31
-
-# Titre 2 : De la formation et de la constatation du contrat d'engagement
-
-###### Article 9
-
-Le marin signe le contrat d'engagement et en reçoit un exemplaire avant l'embarquement. L'armateur en adresse simultanément
-une copie à l'inspecteur du travail maritime, pour enregistrement.
-
-Le contrat d'engagement mentionne l'adresse et le numéro d'appel de l'inspection du travail maritime.
-
-Les clauses et stipulations du contrat d'engagement sont annexées au rôle d'équipage qui mentionne le lieu et la date
-d'embarquement.
-
-**Nota:**
-
-Ordonnance n° 2010-1307 du 28 octobre 2010 article 9 : L'abrogation des dispositions mentionnées à l'article 7 ne prendra
-effet qu'à compter de la publication des dispositions réglementaires du code des transports pour ce qui concerne le deuxième
-alinéa de l'article 9 (Fin de vigueur : date indéterminée).
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°2006-10 du 5 janvier 2006 - art. 48 () JORF 6 janvier 2006
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2010-1307 du 28 octobre 2010 - art. 7
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
-
-	**Nouveaux textes**:
-
-	  - Code des transports - art. L5542-3 (V)
-	  - Code des transports - art. L5542-5 (V)
-
-	**Cité par**:
-
-	  - Code du travail maritime - art. 133-1 (V)
-
+Version Consolidée au 2013-07-18
 
 # Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires
 
@@ -130,23 +87,6 @@ effet qu'à compter de la publication des dispositions réglementaires du code d
 
 
 ## Chapitre 2 : De la nourriture et du couchage
-
-###### Article 73
-
-Sur tout bâtiment où les marins sont nourris par l'armateur, il doit y avoir un cuisinier apte à cet emploi, âgé de plus de
-dix-huit ans. Si l'équipage comprend plus de vingt hommes, le cuisinier ne peut être distrait de son emploi pour être affecté
-à un autre service du bord.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926
-
-	**Abrogé par**:
-
-	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
-
 
 ###### Article 75
 
@@ -252,8 +192,6 @@ alinéa de l'article 113 les mots " après avis du médecin des gens de mer ". (
 
 ###### Article 133-1
 
-Pour l'application à Mayotte de l'article 9, la seconde phrase du premier alinéa est supprimée. 
-
 Pour l'application de l'article 25-1, à défaut d'accord national professionnel ou d'accord de branche étendus, tels que
 prévus par cet article, applicables à Mayotte, la durée du travail est calculée sur une base annuelle de deux cent vingt-cinq
 jours par an, y compris les heures de travail effectuées à terre. Les modalités de prise en compte des heures de travail
@@ -273,9 +211,9 @@ L'article 34 du code du travail maritime a été codifié aux articles L. 5544-3
 
 **Liens relatifs à cet article**
 
-	**Créé par**:
+	**Modifié par**:
 
-	  - Loi n°2010-1487 du 7 décembre 2010 - art. 29
+	  - Loi n°2013-619 du 16 juillet 2013 - art. 31
 
 	**Cite**:
 
