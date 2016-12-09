@@ -1,5 +1,5 @@
 # Code du travail maritime  
-Version Consolidée au 2013-07-18
+Version Consolidée au 2016-12-10
 
 # Titre 3 : Des obligations du marin envers l'armateur et de la réglementation du travail à bord des navires
 
@@ -98,37 +98,6 @@ l'équipage.
 	**Codifié par**:
 
 	  - Loi du 13 décembre 1926, v. init.
-
-
-###### Article 76
-
-Nul ne peut introduire de boissons alcooliques à bord sans l'autorisation du capitaine. 
-
-Il est interdit d'embarquer, pour la consommation de l'équipage, officiers compris, une quantité de boissons alcooliques
-supérieure à une quantité réglementaire qui est déterminée, pour chaque genre de navigation, par un arrêté ministériel.
-
-Toute boisson alcoolique introduite contrairement aux dispositions du paragraphe premier du présent article est confisquée
-par le capitaine et est vendue par l'autorité chargée de l'inspection du travail maritime au profit de la caisse des
-invalides, sans préjudice des sanctions disciplinaires ou pénales.
-
-Toute boisson alcoolique conservée à bord contrairement aux dispositions du paragraphe 2 du présent article est saisie par
-toute autorité ayant qualité pour constater les infractions à la police ou à la sécurité de la navigation, ou par les agents
-de l'administration des douanes, et est vendue au profit de la caisse des invalides, sans préjudice des sanctions
-disciplinaires ou pénales.
-
-**Liens relatifs à cet article**
-
-	**Codifié par**:
-
-	  - Loi du 13 décembre 1926, v. init.
-
-	**Modifié par**:
-
-	  - Loi n°96-151 du 26 février 1996 - art. 23 () JORF 27 février 1996
-
-	**Abrogé par**:
-
-	  - Ordonnance n°2016-1686 du 8 décembre 2016 - art. 10
 
 
 # Titre 6 : Dispositions spéciales applicables à certaines catégories de marins
